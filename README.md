@@ -13,3 +13,4 @@ I'm an IT System Engineer, .NET Core developer and IT enthusiast
 ### GitHub Statistics
 
 <img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&hide=java,html,powershell&title_color=000000&text_color=000000&icon_color=2bbc8a" />

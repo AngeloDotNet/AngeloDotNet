@@ -1,5 +1,5 @@
 ## Hi there, I'm Angelo 👋
-I'm an IT System Engineer, .NET Core developer and IT enthusiast
+I am an IT systems engineer by profession, .NET Core developer in his spare time and IT enthusiast
 <br><br>
 
 ### Connect with me:

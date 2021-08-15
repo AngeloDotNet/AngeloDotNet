@@ -1,5 +1,5 @@
 ## Hi there, I'm Angelo 👋
-I am an IT systems engineer by profession, .NET Core developer in his spare time and IT enthusiast
+I am an IT Systems Engineer by profession at the Luna Labs company in Milan, IT enthusiast and .NET Core developer by passion
 <br><br>
 
 ### Connect with me:

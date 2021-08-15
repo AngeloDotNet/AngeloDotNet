@@ -3,7 +3,7 @@ I am an IT Systems Engineer by profession at the Luna Labs company in Milan, IT 
 <br><br>
 
 ### Connect with me:
-
+<a href="mailto:angelo9871&commat;gmail.com" rel="nofollow"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;"></a>
 <a href="https://linkedin.com/in/pirolaangelo" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
 <a href="https://www.instagram.com/cyberbob87" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a>
 <a href="https://discord.gg/GE4Sg47FmX" rel="nofollow"><img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;"></a>

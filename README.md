@@ -1,6 +1,8 @@
 ## Hi, I'm Angelo 👋
-Hey there, welcome to my GitHub profile !<br>
-I am an IT Systems Engineer by profession at the Luna Labs company in Milan, IT enthusiast and .NET Core developer by passion.<br>
+Hey there, welcome to my GitHub profile !<br> 
+
+### Profile
+I currently work as IT Systems Engineer at Lunalabs (Milan) and I deal with devops activities (mainly operations) on windows and linux systems in a cloud environment. I am an IT Systems Engineer by profession at the Luna Labs company in Milan. Passionate about computer science and technology and in his spare time for passion .NET Core developer.<br>
 
 ### Connect with me:
 <a href="mailto:angelo9871&commat;gmail.com" rel="nofollow"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;"></a>

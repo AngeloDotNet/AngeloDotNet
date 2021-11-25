@@ -1,8 +1,8 @@
 ## Hi, I'm Angelo 👋
 Hey there, welcome to my GitHub profile !<br> 
 
-### Profile
-I currently work as IT Systems Engineer at Lunalabs (Milan) and I deal with devops activities (mainly operations) on windows and linux systems in a cloud environment. I am an IT Systems Engineer by profession at the Luna Labs company in Milan.<br>
+<!--### Profile
+I currently work as IT Systems Engineer at Lunalabs (Milan) and I deal with devops activities (mainly operations) on windows and linux systems in a cloud environment. I am an IT Systems Engineer by profession at the Luna Labs company in Milan.<br>-->
 
 ### Connect with me:
 <a href="mailto:angelo9871&commat;gmail.com" rel="nofollow"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;"></a>
@@ -22,8 +22,8 @@ I currently work as IT Systems Engineer at Lunalabs (Milan) and I deal with devo
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a></p><br><br><br>
 
-<details>
-<summary>:zap: GitHub Statistics</summary>
+<!--<details>
+<summary>:zap: GitHub Statistics</summary>-->
 <img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&hide=java,html,powershell&title_color=000000&text_color=000000&icon_color=2bbc8a" />
-</details>
+<!--</details>-->

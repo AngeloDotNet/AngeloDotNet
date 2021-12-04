@@ -1,5 +1,5 @@
-## Hi, I'm Angelo 👋
-Hey there, welcome to my GitHub profile !<br> 
+## Hey there, I'm Angelo 👋 Welcome to my GitHub profile !
+<!--Hey there, welcome to my GitHub profile !<br> -->
 
 ### Profile
 I currently work as IT Systems Engineer at Lunalabs (Milan) and I deal with devops activities (mainly operations) on windows and linux systems in a cloud environment. I am an IT Systems Engineer by profession at the Luna Labs company in Milan.<br>

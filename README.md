@@ -2,7 +2,7 @@
 <!--Hey there, welcome to my GitHub profile !<br> -->
 
 ### Profile
-I currently work as IT Systems Engineer at Lunalabs (Milan) and I deal with devops activities (mainly operations) on windows and linux systems in a cloud environment. I am an IT Systems Engineer by profession at the Luna Labs company in Milan.<br>
+I have been working in the Information Technology industry since 2007, I am passionate about IT and technology and in my spare time I am a passionate .NET Core developer.<br>
 
 ### Connect with me:
 <a href="mailto:angelo9871&commat;gmail.com" rel="nofollow"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;"></a>

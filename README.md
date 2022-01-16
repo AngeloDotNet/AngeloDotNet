@@ -1,15 +1,15 @@
-## Hey there, I'm Angelo 👋 Welcome to my GitHub profile !
-<!--Hey there, welcome to my GitHub profile !<br> -->
+## Hey there, I'm Angelo 👋 ![Discord](https://img.shields.io/discord/830840397373898762?label=Discord)
 
 ### Profile
 I have been working in the Information Technology industry since 2007, I am passionate about IT and technology and in my spare time I am a passionate .NET Core developer.<br>
 
 ### Connect with me:
-<a href="mailto:angelo9871&commat;gmail.com" rel="nofollow"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;"></a>
-<a href="https://linkedin.com/in/pirolaangelo" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/cyberbob87" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a>
-<a href="https://discord.gg/GE4Sg47FmX" rel="nofollow"><img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;"></a>
-<a href="https://twitter.com/angeloIT87" rel="nofollow"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a><br>
+<!--[![Gmail](https://img.shields.io/badge/gmail-%23B6000C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)-->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeloit87/)
+[![Twitter](https://img.shields.io/badge/twitter-%233FDEE4.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
+[![Discord](https://img.shields.io/badge/discord-%237D45C6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 
 ### Languages and Tools:
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d9e9e8ddf137171e681df3e755e7adda3687311ecfbe1a981cf029624119c06/68747470733a2f2f76697375616c73747564696f2e6d6963726f736f66742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f4272616e6456697375616c53747564696f57696e323031392d332e737667"><img align="left" alt="Visual Studio" width="26px" src="https://camo.githubusercontent.com/3d9e9e8ddf137171e681df3e755e7adda3687311ecfbe1a981cf029624119c06/68747470733a2f2f76697375616c73747564696f2e6d6963726f736f66742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f4272616e6456697375616c53747564696f57696e323031392d332e737667" data-canonical-src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" style="max-width: 100%;"></a></p>

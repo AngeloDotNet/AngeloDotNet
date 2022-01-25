@@ -1,4 +1,4 @@
-## Hey there, I'm Angelo 👋 ![Discord](https://img.shields.io/discord/830840397373898762?label=Discord)
+## Hey there, I'm Angelo 👋 ![Discord](https://img.shields.io/discord/830840397373898762?label=Discord) ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=AngeloDotNet.AngeloDotNet)
 
 ### Profile
 I have been working in the Information Technology industry since 2007, I am passionate about IT and technology and in my spare time I am a passionate .NET Core developer.<br>

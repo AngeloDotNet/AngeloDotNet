@@ -20,13 +20,7 @@ I have been working in the Information Technology industry since 2007, I am pass
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a></p><br>
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a></p><br><br>
 
-<!--### Statistics:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AngeloDotNet&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="github statistics" />-->
-
-<br>
-<details>
-  <summary>Statistics:</summary>
-  <img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />
-</details>
+### Statistics:
+<img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />

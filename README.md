@@ -12,14 +12,21 @@ I have been working in the Information Technology industry since 2007, I am pass
 [![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
 [![Discord](https://img.shields.io/badge/discord-%237D45C6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 
-### Languages and Tools:
+### Editors, Framework and Languages:
+[![](https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)]()
 [![](https://img.shields.io/badge/visual_studio_code-%230077B5.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
-[![](https://img.shields.io/badge/dotnet-%23000099.svg?style=for-the-badge&logo=dotnet&logoColor=white)]()
+[![](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![](https://img.shields.io/badge/C%23-%2330A14E.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![](https://img.shields.io/badge/html5-%23FF8000.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/css3-%2366B2FF.svg?style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/docker-%230066CC.svg?style=for-the-badge&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/css3-%230066CC.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/blazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()
+
+### Libraries, Databases and Tools:
+[![](https://img.shields.io/badge/Mudblazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
+[![](https://img.shields.io/badge/sqlite-%230066CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![](https://img.shields.io/badge/docker-%230066CC.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/git-%23990000.svg?style=for-the-badge&logo=git&logoColor=white)]()
 
 ### Statistics:

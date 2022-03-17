@@ -34,3 +34,4 @@ I have been working in the Information Technology industry since 2007, I am pass
 
 ### Recent activity:
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

@@ -31,3 +31,6 @@ I have been working in the Information Technology industry since 2007, I am pass
 
 ### Statistics:
 <img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />
+
+### Recent activity:
+<!--START_SECTION:activity-->

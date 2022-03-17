@@ -29,9 +29,6 @@ I have been working in the Information Technology industry since 2007, I am pass
 [![](https://img.shields.io/badge/docker-%230066CC.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/git-%23990000.svg?style=for-the-badge&logo=git&logoColor=white)]()
 
-### Statistics:
-<img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />
-
 ### Recent activity:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#17](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/17) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
@@ -40,3 +37,6 @@ I have been working in the Information Technology industry since 2007, I am pass
 4. 💪 Opened PR [#16](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/16) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
 5. 🎉 Merged PR [#15](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/15) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
 <!--END_SECTION:activity-->
+
+### Statistics:
+<img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />

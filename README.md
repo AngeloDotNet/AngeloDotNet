@@ -4,30 +4,35 @@
 I have been working in the Information Technology industry since 2007, I am passionate about IT and technology and in my spare time I am a passionate .NET Core developer.<br>
 
 ### Connect with me:
-<!--[![Gmail](https://img.shields.io/badge/gmail-%23B6000C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)-->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeloit87/)
-[![Twitter](https://img.shields.io/badge/twitter-%2366B2FF.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeloit87/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
 [![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
 [![Discord](https://img.shields.io/badge/discord-%237D45C6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 
 ### Editors, Framework and Languages:
 [![](https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)]()
 [![](https://img.shields.io/badge/visual_studio_code-%230077B5.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
-[![](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)]()
-[![](https://img.shields.io/badge/C%23-%2330A14E.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![](https://img.shields.io/badge/html5-%23FF8000.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/css3-%230066CC.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/blazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()
 
-### Libraries, Databases and Tools:
+### Libraries and Tools:
 [![](https://img.shields.io/badge/Mudblazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()
-[![](https://img.shields.io/badge/Bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
-[![](https://img.shields.io/badge/sqlite-%230066CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![](https://img.shields.io/badge/docker-%230066CC.svg?style=for-the-badge&logo=docker&logoColor=white)]()
-[![](https://img.shields.io/badge/git-%23990000.svg?style=for-the-badge&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
+
+### Databases:
+[![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ### Recent activity:
 <!--START_SECTION:activity-->
@@ -39,4 +44,4 @@ I have been working in the Information Technology industry since 2007, I am pass
 <!--END_SECTION:activity-->
 
 ### Statistics:
-<img align="left" alt="AngeloDotNet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide_border=true&count_private=true" />
+[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)

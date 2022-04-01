@@ -36,11 +36,11 @@ I have been working in the Information Technology industry since 2007, I am pass
 
 ### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/6) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
-2. 💪 Opened PR [#6](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/6) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
-3. 🎉 Merged PR [#5](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/5) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
-4. 💪 Opened PR [#5](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/5) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
-5. 🎉 Merged PR [#4](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/4) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
+1. 🎉 Merged PR [#7](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/7) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
+2. 🗣 Commented on [#7](https://github.com/AepServerNet/Blazor.GestioneSagre/issues/7) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
+3. 💪 Opened PR [#7](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/7) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
+4. 🎉 Merged PR [#6](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/6) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
+5. 💪 Opened PR [#6](https://github.com/AepServerNet/Blazor.GestioneSagre/pull/6) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
 <!--END_SECTION:activity-->
 
 ### Statistics:

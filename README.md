@@ -1,7 +1,7 @@
 ## Hey there, I'm Angelo 👋 ![Discord](https://img.shields.io/discord/830840397373898762?label=Discord) ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=AngeloDotNet.AngeloDotNet)
 
 ### Profile
-I have been working in the ICT field since 2007, I am passionate about IT and technology and in my free time I develop some Open Source projects with .NET Core and I am currently learning Blazor Wasm and React.<br>
+I have been working in the ICT field since 2007, I am passionate about IT and technology. In my free time I develop some open source projects with .NET Core and I am currently learning Blazor Wasm and React.<br>
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)

@@ -8,9 +8,10 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeloit87/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloIT87)
+[![Discord](https://img.shields.io/badge/discord-%237D45C6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
 [![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
-[![Discord](https://img.shields.io/badge/discord-%237D45C6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 
 ### Editors, Framework and Languages:
 [![](https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)]()
@@ -23,9 +24,9 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ### Libraries and Tools:
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 <!--[![](https://img.shields.io/badge/Mudblazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()-->
 
 ### Databases:

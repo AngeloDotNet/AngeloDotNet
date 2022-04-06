@@ -3,6 +3,8 @@
 ### Profile
 I have been working in the ICT field since 2007, I am passionate about IT and technology. In my free time I develop some open source projects with .NET Core and I am currently learning Blazor Wasm and React.<br>
 
+[![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
+
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
@@ -11,7 +13,6 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloIT87)
 [![Discord](https://img.shields.io/badge/discord-%237D45C6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
-[![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
 
 ### Editors, Framework and Languages:
 [![](https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)]()

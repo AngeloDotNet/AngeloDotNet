@@ -38,11 +38,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ### Recent activity:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-2. 🗣 Commented on [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-3. ❗️ Opened issue [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-4. ❗️ Opened issue [#34](https://github.com/AepServerNet/Blazor.GestioneSagre/issues/34) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
-5. ❗️ Opened issue [#33](https://github.com/AepServerNet/Blazor.GestioneSagre/issues/33) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
+1. ❗️ Opened issue [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
+2. ❗️ Closed issue [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+3. 🗣 Commented on [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+4. ❗️ Opened issue [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+5. ❗️ Opened issue [#34](https://github.com/AepServerNet/Blazor.GestioneSagre/issues/34) in [AepServerNet/Blazor.GestioneSagre](https://github.com/AepServerNet/Blazor.GestioneSagre)
 <!--END_SECTION:activity-->
 
 ### Statistics:

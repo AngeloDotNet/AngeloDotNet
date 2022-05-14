@@ -38,11 +38,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ### Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/CloudGenVR/Blazor/pull/2) in [CloudGenVR/Blazor](https://github.com/CloudGenVR/Blazor)
-2. ❗️ Opened issue [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
-3. ❗️ Closed issue [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-4. 🗣 Commented on [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-5. ❗️ Opened issue [#22](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/22) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+1. 🗣 Commented on [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
+2. 🗣 Commented on [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
+3. 🗣 Commented on [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
+4. 💪 Opened PR [#2](https://github.com/CloudGenVR/Blazor/pull/2) in [CloudGenVR/Blazor](https://github.com/CloudGenVR/Blazor)
+5. ❗️ Opened issue [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
 <!--END_SECTION:activity-->
 
 ### Statistics:

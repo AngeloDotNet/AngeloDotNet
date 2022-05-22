@@ -14,7 +14,10 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloIT87)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
 
-### Editors, Framework and Languages:
+<details>
+  <summary>:zap: Languages, Databases and Tools</summary>
+  
+<!--### Editors, Framework and Languages:-->
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
@@ -22,21 +25,23 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 <!--[![](https://img.shields.io/badge/blazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()-->
-
-### Libraries and Tools:
+<!--### Libraries and Tools:-->
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
 <!--[![](https://img.shields.io/badge/Mudblazor-%237D45C6.svg?style=for-the-badge&logo=blazor&logoColor=white)]()-->
-
-### Databases:
+<!--### Databases:-->
 [![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
 [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+</details>
 
-### Recent activity:
+<!--### Recent activity:-->
+<details>
+  <summary>:zap: Recent Activities</summary>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#11](https://github.com/AepServerNet/GestioneSagre/pull/11) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
 2. 💪 Opened PR [#11](https://github.com/AepServerNet/GestioneSagre/pull/11) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
@@ -44,6 +49,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 4. ❗️ Opened issue [#10](https://github.com/AepServerNet/GestioneSagre/issues/10) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
 5. ❗️ Opened issue [#9](https://github.com/AepServerNet/GestioneSagre/issues/9) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
 <!--END_SECTION:activity-->
+</details>
 
-### Statistics:
-[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)
+<!--### Statistics:-->
+<details>
+  <summary>:zap: Statistics</summary>
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)
+</details>

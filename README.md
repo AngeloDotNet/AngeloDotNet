@@ -15,7 +15,7 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
 
 <details>
-  <summary>:zap: Languages, Databases and Tools</summary>
+  <summary>:books: Languages, Databases and Tools</summary>
   
 <!--### Editors, Framework and Languages:-->
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
@@ -53,7 +53,7 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 <!--### Statistics:-->
 <details>
-  <summary>:zap: Statistics</summary>
+  <summary>:trophy: Statistics</summary>
   
   [![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)
 </details>

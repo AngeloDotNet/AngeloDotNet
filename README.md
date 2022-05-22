@@ -3,10 +3,9 @@
 ### Profile
 I have been working in the ICT field since 2007, I am passionate about IT and technology. In my free time I develop some open source projects with .NET Core and I am currently learning Blazor Wasm and React.<br>
 
-[![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
-
 ### Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)
+<!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo9871&commat;gmail.com)-->
+[![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angeloit87/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87/)

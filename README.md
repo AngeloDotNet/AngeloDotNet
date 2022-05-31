@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/23) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-2. 🎉 Merged PR [#14](https://github.com/AepServerNet/GestioneSagre/pull/14) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-3. 💪 Opened PR [#14](https://github.com/AepServerNet/GestioneSagre/pull/14) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-4. ❗️ Closed issue [#12](https://github.com/AepServerNet/GestioneSagre/issues/12) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-5. 🎉 Merged PR [#13](https://github.com/AepServerNet/GestioneSagre/pull/13) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+1. ❗️ Opened issue [#17](https://github.com/AepServerNet/GestioneSagre/issues/17) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+2. 🎉 Merged PR [#16](https://github.com/AepServerNet/GestioneSagre/pull/16) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+3. 💪 Opened PR [#16](https://github.com/AepServerNet/GestioneSagre/pull/16) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+4. 🎉 Merged PR [#15](https://github.com/AepServerNet/GestioneSagre/pull/15) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+5. 💪 Opened PR [#15](https://github.com/AepServerNet/GestioneSagre/pull/15) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
 <!--END_SECTION:activity-->
 </details>
 

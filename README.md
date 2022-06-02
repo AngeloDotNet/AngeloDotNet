@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/AepServerNet/GestioneSagre/issues/9) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-2. 🎉 Merged PR [#19](https://github.com/AepServerNet/GestioneSagre/pull/19) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-3. 💪 Opened PR [#19](https://github.com/AepServerNet/GestioneSagre/pull/19) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-4. ❗️ Closed issue [#4](https://github.com/AepServerNet/GestioneSagre/issues/4) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-5. 🎉 Merged PR [#18](https://github.com/AepServerNet/GestioneSagre/pull/18) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+1. 🎉 Merged PR [#20](https://github.com/AepServerNet/GestioneSagre/pull/20) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+2. 💪 Opened PR [#20](https://github.com/AepServerNet/GestioneSagre/pull/20) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+3. ❗️ Closed issue [#9](https://github.com/AepServerNet/GestioneSagre/issues/9) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+4. 🎉 Merged PR [#19](https://github.com/AepServerNet/GestioneSagre/pull/19) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
+5. 💪 Opened PR [#19](https://github.com/AepServerNet/GestioneSagre/pull/19) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
 <!--END_SECTION:activity-->
 </details>
 

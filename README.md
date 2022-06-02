@@ -14,7 +14,7 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
 
 <details>
-  <summary>:books: Languages, Databases and Tools</summary>
+  <summary>:books: Languages, Databases and Tools</summary><br>
   
 <!--### Editors, Framework and Languages:-->
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
@@ -39,7 +39,7 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 <!--### Recent activity:-->
 <details>
-  <summary>:zap: Recent Activities</summary>
+  <summary>:zap: Recent Activities</summary><br>
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#9](https://github.com/AepServerNet/GestioneSagre/issues/9) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
@@ -52,7 +52,7 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 <!--### Statistics:-->
 <details>
-  <summary>:trophy: Statistics</summary>
+  <summary>:trophy: Statistics</summary><br>
   
   [![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)
 </details>

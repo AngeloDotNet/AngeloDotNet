@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/AepServerNet/GestioneSagre/pull/27) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-2. 💪 Opened PR [#27](https://github.com/AepServerNet/GestioneSagre/pull/27) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-3. 🎉 Merged PR [#26](https://github.com/AepServerNet/GestioneSagre/pull/26) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-4. 💪 Opened PR [#26](https://github.com/AepServerNet/GestioneSagre/pull/26) in [AepServerNet/GestioneSagre](https://github.com/AepServerNet/GestioneSagre)
-5. 💪 Opened PR [#1](https://github.com/albx/ProposalCollector/pull/1) in [albx/ProposalCollector](https://github.com/albx/ProposalCollector)
+1. 💪 Opened PR [#1](https://github.com/albx/ProposalCollector/pull/1) in [albx/ProposalCollector](https://github.com/albx/ProposalCollector)
+2. ❗️ Opened issue [#23](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/23) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+3. ❗️ Closed issue [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
+4. 🗣 Commented on [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
+5. 🗣 Commented on [#227](https://github.com/dotnet/razor-compiler/issues/227) in [dotnet/razor-compiler](https://github.com/dotnet/razor-compiler)
 <!--END_SECTION:activity-->
 </details>
 

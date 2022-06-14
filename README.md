@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/AngeloDotNet/GestioneSagre/issues/34) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-2. ❗️ Opened issue [#33](https://github.com/AngeloDotNet/GestioneSagre/issues/33) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-3. ❗️ Closed issue [#32](https://github.com/AngeloDotNet/GestioneSagre/issues/32) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-4. ❗️ Opened issue [#32](https://github.com/AngeloDotNet/GestioneSagre/issues/32) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-5. 🎉 Merged PR [#31](https://github.com/AngeloDotNet/GestioneSagre/pull/31) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+1. 🎉 Merged PR [#24](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/24) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+2. ❗️ Closed issue [#23](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/23) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+3. ❗️ Opened issue [#34](https://github.com/AngeloDotNet/GestioneSagre/issues/34) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+4. ❗️ Opened issue [#33](https://github.com/AngeloDotNet/GestioneSagre/issues/33) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+5. ❗️ Closed issue [#32](https://github.com/AngeloDotNet/GestioneSagre/issues/32) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
 <!--END_SECTION:activity-->
 </details>
 

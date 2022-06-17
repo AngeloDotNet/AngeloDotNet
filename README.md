@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/24) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-2. ❗️ Closed issue [#23](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/23) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-3. ❗️ Opened issue [#34](https://github.com/AngeloDotNet/GestioneSagre/issues/34) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-4. ❗️ Opened issue [#33](https://github.com/AngeloDotNet/GestioneSagre/issues/33) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-5. ❗️ Closed issue [#32](https://github.com/AngeloDotNet/GestioneSagre/issues/32) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+1. ❗️ Opened issue [#43](https://github.com/blazordevita/BlazorDevIta.ERP/issues/43) in [blazordevita/BlazorDevIta.ERP](https://github.com/blazordevita/BlazorDevIta.ERP)
+2. 🗣 Commented on [#36](https://github.com/blazordevita/BlazorDevIta.ERP/issues/36) in [blazordevita/BlazorDevIta.ERP](https://github.com/blazordevita/BlazorDevIta.ERP)
+3. 🎉 Merged PR [#46](https://github.com/AngeloDotNet/GestioneSagre/pull/46) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+4. ❗️ Closed issue [#45](https://github.com/AngeloDotNet/GestioneSagre/issues/45) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+5. ❗️ Opened issue [#45](https://github.com/AngeloDotNet/GestioneSagre/issues/45) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
 <!--END_SECTION:activity-->
 </details>
 

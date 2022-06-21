@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/AngeloDotNet/GestioneSagre/issues/53) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-2. ❗️ Opened issue [#52](https://github.com/AngeloDotNet/GestioneSagre/issues/52) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-3. ❗️ Opened issue [#51](https://github.com/AngeloDotNet/GestioneSagre/issues/51) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-4. ❗️ Opened issue [#50](https://github.com/AngeloDotNet/GestioneSagre/issues/50) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-5. 🎉 Merged PR [#48](https://github.com/AngeloDotNet/GestioneSagre/pull/48) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+1. 🎉 Merged PR [#55](https://github.com/AngeloDotNet/GestioneSagre/pull/55) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+2. ❗️ Closed issue [#54](https://github.com/AngeloDotNet/GestioneSagre/issues/54) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+3. ❗️ Opened issue [#54](https://github.com/AngeloDotNet/GestioneSagre/issues/54) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+4. ❗️ Opened issue [#53](https://github.com/AngeloDotNet/GestioneSagre/issues/53) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+5. ❗️ Opened issue [#52](https://github.com/AngeloDotNet/GestioneSagre/issues/52) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
 <!--END_SECTION:activity-->
 </details>
 

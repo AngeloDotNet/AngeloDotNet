@@ -50,9 +50,6 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 <!--END_SECTION:activity-->
 </details>
 
-<!--### Statistics:-->
-<details>
-  <summary>:trophy: Statistics</summary><br>
+:trophy: Statistics<br>
   
-  [![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)
-</details>
+[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)

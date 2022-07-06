@@ -52,4 +52,8 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 :trophy: Statistics<br>
   
-[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)
+<!--[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)-->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloDotNet&theme=default&hide_border=false" />
+</p>

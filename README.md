@@ -13,9 +13,8 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloIT87)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet)
 
-<details>
-  <summary>:books: Languages, Databases and Tools</summary><br>
-  
+### :books: Languages, Databases and Tools<br>  
+
 <!--### Editors, Framework and Languages:-->
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
@@ -35,11 +34,9 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-</details>
 
-<!--### Recent activity:-->
-<details>
-  <summary>:zap: Recent Activities</summary><br>
+
+### :zap: Recent Activities<br>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/AepServerNet/SegnalaSagraEvento/pull/4) in [AepServerNet/SegnalaSagraEvento](https://github.com/AepServerNet/SegnalaSagraEvento)
@@ -48,9 +45,8 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 4. 🗣 Commented on [#129](https://github.com/AngeloDotNet/GestioneSagre/issues/129) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
 5. 🗣 Commented on [#113](https://github.com/AngeloDotNet/GestioneSagre/issues/113) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
 <!--END_SECTION:activity-->
-</details>
 
-:chart_with_upwards_trend: Statistics<br>
+### :chart_with_upwards_trend: Statistics<br>
   
 <!--[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)-->
 <img src="https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&hide_border=false&include_all_commits=false&count_private=true" />

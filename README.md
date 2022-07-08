@@ -39,11 +39,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 ### :zap: Recent Activities<br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/AepServerNet/SegnalaSagraEvento/pull/10) in [AepServerNet/SegnalaSagraEvento](https://github.com/AepServerNet/SegnalaSagraEvento)
-2. ❗️ Closed issue [#132](https://github.com/AngeloDotNet/GestioneSagre/issues/132) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-3. ❗️ Closed issue [#131](https://github.com/AngeloDotNet/GestioneSagre/issues/131) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-4. 🗣 Commented on [#131](https://github.com/AngeloDotNet/GestioneSagre/issues/131) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-5. ❗️ Opened issue [#132](https://github.com/AngeloDotNet/GestioneSagre/issues/132) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+1. ❗️ Closed issue [#8](https://github.com/AepServerNet/SegnalaSagraEvento/issues/8) in [AepServerNet/SegnalaSagraEvento](https://github.com/AepServerNet/SegnalaSagraEvento)
+2. 🎉 Merged PR [#11](https://github.com/AepServerNet/SegnalaSagraEvento/pull/11) in [AepServerNet/SegnalaSagraEvento](https://github.com/AepServerNet/SegnalaSagraEvento)
+3. ❗️ Closed issue [#7](https://github.com/AepServerNet/SegnalaSagraEvento/issues/7) in [AepServerNet/SegnalaSagraEvento](https://github.com/AepServerNet/SegnalaSagraEvento)
+4. 🎉 Merged PR [#10](https://github.com/AepServerNet/SegnalaSagraEvento/pull/10) in [AepServerNet/SegnalaSagraEvento](https://github.com/AepServerNet/SegnalaSagraEvento)
+5. ❗️ Closed issue [#132](https://github.com/AngeloDotNet/GestioneSagre/issues/132) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: Statistics<br>

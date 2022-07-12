@@ -15,23 +15,30 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 ![Discord](https://img.shields.io/discord/830840397373898762?style=for-the-badge)
 
 
-### :books: Languages, Databases and Tools<br>  
+### :books: Operating systems, Languages, Databases, Framework and Tools<br>  
 
 <!--### Editors, Framework and Languages:-->
-[![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
+[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
+[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
+[![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
+[![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)=]()
+[![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
+[![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
-[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]()
 
 
 ### :zap: Recent Activities<br>
@@ -45,7 +52,9 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 <!--END_SECTION:activity-->
 
 ### :chart_with_upwards_trend: Statistics<br>
-  
-<!--[![card](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&show_icons=true)](https://github.com/AngeloDotNet/)-->
-<img src="https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloDotNet&theme=default&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=vue" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=AngeloDotNet&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloDotNet&theme=default&hide_border=false" />-->
+
+### 🏆 Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=angelodotnet" />

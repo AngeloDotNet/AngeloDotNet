@@ -43,11 +43,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/GestioneSagre/GestioneSagre.Web/issues/46) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-2. ❗️ Closed issue [#46](https://github.com/GestioneSagre/GestioneSagre.Web/issues/46) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-3. ❗️ Closed issue [#47](https://github.com/GestioneSagre/GestioneSagre.Web/issues/47) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-4. 🗣 Commented on [#47](https://github.com/GestioneSagre/GestioneSagre.Web/issues/47) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-5. ❗️ Closed issue [#48](https://github.com/GestioneSagre/GestioneSagre.Web/issues/48) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
+1. 🎉 Merged PR [#146](https://github.com/AngeloDotNet/GestioneSagre/pull/146) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
+2. 🗣 Commented on [#46](https://github.com/GestioneSagre/GestioneSagre.Web/issues/46) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
+3. ❗️ Closed issue [#46](https://github.com/GestioneSagre/GestioneSagre.Web/issues/46) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
+4. ❗️ Closed issue [#47](https://github.com/GestioneSagre/GestioneSagre.Web/issues/47) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
+5. 🗣 Commented on [#47](https://github.com/GestioneSagre/GestioneSagre.Web/issues/47) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
   <!--END_SECTION:activity-->
 
 </details><br>

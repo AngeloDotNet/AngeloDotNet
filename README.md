@@ -43,11 +43,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   <summary>:zap: Recent Activities</summary><br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/GestioneSagre/GestioneSagre.Web/issues/15) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-2. 🎉 Merged PR [#146](https://github.com/AngeloDotNet/GestioneSagre/pull/146) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-3. 🗣 Commented on [#46](https://github.com/GestioneSagre/GestioneSagre.Web/issues/46) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-4. ❗️ Closed issue [#46](https://github.com/GestioneSagre/GestioneSagre.Web/issues/46) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
-5. ❗️ Closed issue [#47](https://github.com/GestioneSagre/GestioneSagre.Web/issues/47) in [GestioneSagre/GestioneSagre.Web](https://github.com/GestioneSagre/GestioneSagre.Web)
+1. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT/pull/3) in [AngeloDotNet/WebAPI.IdentityTokenJWT](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT)
+2. 💪 Opened PR [#3](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT/pull/3) in [AngeloDotNet/WebAPI.IdentityTokenJWT](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT)
+3. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT/pull/2) in [AngeloDotNet/WebAPI.IdentityTokenJWT](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT)
+4. 💪 Opened PR [#2](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT/pull/2) in [AngeloDotNet/WebAPI.IdentityTokenJWT](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT)
+5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT/pull/1) in [AngeloDotNet/WebAPI.IdentityTokenJWT](https://github.com/AngeloDotNet/WebAPI.IdentityTokenJWT)
   <!--END_SECTION:activity-->
 
 </details><br>

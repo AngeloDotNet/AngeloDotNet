@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 ### :zap: Recent Activities<br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/AngeloDotNet/GestioneSagre/pull/150) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-2. 🎉 Merged PR [#147](https://github.com/AngeloDotNet/GestioneSagre/pull/147) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-3. 🎉 Merged PR [#148](https://github.com/AngeloDotNet/GestioneSagre/pull/148) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-4. 🎉 Merged PR [#149](https://github.com/AngeloDotNet/GestioneSagre/pull/149) in [AngeloDotNet/GestioneSagre](https://github.com/AngeloDotNet/GestioneSagre)
-5. 🎉 Merged PR [#24](https://github.com/AepServerNet/SagreEventi.SQLite/pull/24) in [AepServerNet/SagreEventi.SQLite](https://github.com/AepServerNet/SagreEventi.SQLite)
+1. ❗️ Opened issue [#22](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/22) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+2. ❗️ Opened issue [#21](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/21) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+3. ❗️ Opened issue [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+4. ❗️ Opened issue [#19](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/19) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+5. ❗️ Opened issue [#18](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/18) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
   <!--END_SECTION:activity-->
 
 

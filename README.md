@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 ### :zap: Recent Activities<br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
-2. ❗️ Opened issue [#22](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/22) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
-3. ❗️ Opened issue [#21](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/21) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
-4. ❗️ Opened issue [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
-5. ❗️ Opened issue [#19](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/19) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+1. ❗️ Closed issue [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+2. 🗣 Commented on [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+3. 🎉 Merged PR [#23](https://github.com/AngeloDotNet/RegistroServizi3.0/pull/23) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+4. 💪 Opened PR [#23](https://github.com/AngeloDotNet/RegistroServizi3.0/pull/23) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+5. 🗣 Commented on [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
   <!--END_SECTION:activity-->
 
 

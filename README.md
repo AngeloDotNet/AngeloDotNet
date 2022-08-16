@@ -42,11 +42,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 ### :zap: Recent Activities<br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48](https://github.com/blazordevita/BlazorDevIta.ERP/pull/48) in [blazordevita/BlazorDevIta.ERP](https://github.com/blazordevita/BlazorDevIta.ERP)
-2. 💪 Opened PR [#10](https://github.com/kasuken/BlazorKit.Spinners/pull/10) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/BlazorKit.Spinners/pull/1) in [AngeloDotNet/BlazorKit.Spinners](https://github.com/AngeloDotNet/BlazorKit.Spinners)
-4. 💪 Opened PR [#1](https://github.com/AngeloDotNet/BlazorKit.Spinners/pull/1) in [AngeloDotNet/BlazorKit.Spinners](https://github.com/AngeloDotNet/BlazorKit.Spinners)
-5. ❗️ Closed issue [#20](https://github.com/AngeloDotNet/RegistroServizi3.0/issues/20) in [AngeloDotNet/RegistroServizi3.0](https://github.com/AngeloDotNet/RegistroServizi3.0)
+1. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/GestioneSagre2/pull/1) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+2. 💪 Opened PR [#1](https://github.com/AngeloDotNet/GestioneSagre2/pull/1) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+3. ❌ Closed PR [#48](https://github.com/blazordevita/BlazorDevIta.ERP/pull/48) in [blazordevita/BlazorDevIta.ERP](https://github.com/blazordevita/BlazorDevIta.ERP)
+4. 💪 Opened PR [#10](https://github.com/kasuken/BlazorKit.Spinners/pull/10) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/BlazorKit.Spinners/pull/1) in [AngeloDotNet/BlazorKit.Spinners](https://github.com/AngeloDotNet/BlazorKit.Spinners)
   <!--END_SECTION:activity-->
 
 

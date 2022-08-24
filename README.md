@@ -39,17 +39,6 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
   [![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]()
 
 
-### :zap: Recent Activities<br>
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/AngeloDotNet/GestioneSagre2/pull/7) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-2. 💪 Opened PR [#7](https://github.com/AngeloDotNet/GestioneSagre2/pull/7) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-3. 🎉 Merged PR [#6](https://github.com/AngeloDotNet/GestioneSagre2/pull/6) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-4. 💪 Opened PR [#6](https://github.com/AngeloDotNet/GestioneSagre2/pull/6) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-5. 🎉 Merged PR [#5](https://github.com/AngeloDotNet/GestioneSagre2/pull/5) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-  <!--END_SECTION:activity-->
-
-
 ### :chart_with_upwards_trend: Statistics<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=vue" />
 

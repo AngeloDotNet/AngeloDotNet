@@ -49,5 +49,3 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ### :zap: GitHub Activities<br>
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->

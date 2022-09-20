@@ -3,10 +3,8 @@
 <!-- ### Profile -->
 I have been working in the ICT field since 2007, I am passionate about IT and technology. In my free time I develop some open source projects with .NET Core and I am currently learning Blazor.<br>
 
-You like my open source projects? ⭐ <a href="https://stars.github.com/nominate/">Click here</a> and indicates my username github **angelodotnet**<br>
 
-
-### Connect with me<br>
+### 📝 Connect with me<br>
 [![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloIT87)
@@ -14,6 +12,10 @@ You like my open source projects? ⭐ <a href="https://stars.github.com/nominate
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JTDhH53Kya)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87/)
 ![Discord](https://img.shields.io/discord/830840397373898762?style=for-the-badge)
+
+
+### 💌 Support me<br>
+You like my open source projects? ⭐ Support me by clicking <a href="https://stars.github.com/nominate/">here</a> and indicates my username github: **angelodotnet**<br>
 
 
 ### :books: Operating systems, Languages, Databases, Framework, Editors and Tools<br>

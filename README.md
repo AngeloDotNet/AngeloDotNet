@@ -49,3 +49,9 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ### :zap: GitHub Activities<br>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#57](https://github.com/AngeloDotNet/GestioneSagre2/pull/57) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+2. 🎉 Merged PR [#56](https://github.com/AngeloDotNet/GestioneSagre2/pull/56) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+3. 💪 Opened PR [#56](https://github.com/AngeloDotNet/GestioneSagre2/pull/56) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+4. 🎉 Merged PR [#55](https://github.com/AngeloDotNet/GestioneSagre2/pull/55) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+5. 💪 Opened PR [#55](https://github.com/AngeloDotNet/GestioneSagre2/pull/55) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+<!--END_SECTION:activity-->

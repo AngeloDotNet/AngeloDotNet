@@ -1,10 +1,10 @@
-## Hey there, I'm Angelo 👋
+# Hey there, I'm Angelo 👋
 
 <!-- ### Profile -->
 I have been working in the ICT field since 2007, I am passionate about IT and technology. In my free time I develop some open source projects with .NET Core and I am currently learning Blazor.<br>
 
 
-### 📝 Connect with me<br>
+## 📝 Connect with me<br>
 [![Summary](https://img.shields.io/badge/summary-%23990000.svg?style=for-the-badge&logo=github&logoColor=white)](https://resume.github.io/?AngeloDotNet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirolaangelo/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloIT87)
@@ -14,11 +14,7 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 ![Discord](https://img.shields.io/discord/830840397373898762?style=for-the-badge)
 
 
-### 💌 Support me<br>
-You like my open source projects? ⭐ Support me by clicking <a href="https://stars.github.com/nominate/">here</a> and indicates my username github: **angelodotnet**<br>
-
-
-### :books: Operating systems, Languages, Databases, Framework, Editors and Tools<br>
+## :books: Operating systems, Languages, Databases, Framework, Editors and Tools<br>
 
   [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
   [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
@@ -43,17 +39,17 @@ You like my open source projects? ⭐ Support me by clicking <a href="https://st
   [![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]()
 
 
-### :chart_with_upwards_trend: Statistics<br>
+## :chart_with_upwards_trend: Statistics<br>
 <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=vue" />-->
 <img src="https://github-readme-stats.vercel.app/api?username=angelodotnet" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet" />-->
 
 
-### 🏆 Trophy<br>
+## 🏆 Trophy<br>
 <img src="https://github-profile-trophy.vercel.app/?username=angelodotnet" />
 
 
-### 🚀 GitHub Activities<br>
+## 🚀 GitHub Activities<br>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#62](https://github.com/AngeloDotNet/GestioneSagre2/pull/62) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
 2. 💪 Opened PR [#62](https://github.com/AngeloDotNet/GestioneSagre2/pull/62) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
@@ -61,3 +57,7 @@ You like my open source projects? ⭐ Support me by clicking <a href="https://st
 4. 💪 Opened PR [#61](https://github.com/AngeloDotNet/GestioneSagre2/pull/61) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
 5. 🎉 Merged PR [#60](https://github.com/AngeloDotNet/GestioneSagre2/pull/60) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
 <!--END_SECTION:activity-->
+
+
+## 💌 Support me<br>
+You like my open source projects? ⭐ Support me by clicking <a href="https://stars.github.com/nominate/">here</a> and indicates my username github: **angelodotnet**

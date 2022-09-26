@@ -51,11 +51,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ## 🚀 GitHub Activities<br>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/AngeloDotNet/GestioneSagre2/pull/63) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-2. 🎉 Merged PR [#62](https://github.com/AngeloDotNet/GestioneSagre2/pull/62) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-3. 💪 Opened PR [#62](https://github.com/AngeloDotNet/GestioneSagre2/pull/62) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-4. 🎉 Merged PR [#61](https://github.com/AngeloDotNet/GestioneSagre2/pull/61) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-5. 💪 Opened PR [#61](https://github.com/AngeloDotNet/GestioneSagre2/pull/61) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+1. ❗️ Closed issue [#65](https://github.com/AngeloDotNet/GestioneSagre2/issues/65) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+2. 🎉 Merged PR [#66](https://github.com/AngeloDotNet/GestioneSagre2/pull/66) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+3. 🎉 Merged PR [#64](https://github.com/AngeloDotNet/GestioneSagre2/pull/64) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+4. 🎉 Merged PR [#63](https://github.com/AngeloDotNet/GestioneSagre2/pull/63) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+5. 🎉 Merged PR [#62](https://github.com/AngeloDotNet/GestioneSagre2/pull/62) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
 <!--END_SECTION:activity-->
 
 

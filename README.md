@@ -51,11 +51,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ## 🚀 GitHub Activities<br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/marcominerva/FluentEmailSample/pull/2) in [marcominerva/FluentEmailSample](https://github.com/marcominerva/FluentEmailSample)
-2. 💪 Opened PR [#64](https://github.com/albx/KITT/pull/64) in [albx/KITT](https://github.com/albx/KITT)
-3. 💪 Opened PR [#76](https://github.com/edandersen/core-admin/pull/76) in [edandersen/core-admin](https://github.com/edandersen/core-admin)
-4. 🎉 Merged PR [#67](https://github.com/AngeloDotNet/GestioneSagre2/pull/67) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
-5. 💪 Opened PR [#67](https://github.com/AngeloDotNet/GestioneSagre2/pull/67) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
+1. ❌ Closed PR [#2](https://github.com/marcominerva/FluentEmailSample/pull/2) in [marcominerva/FluentEmailSample](https://github.com/marcominerva/FluentEmailSample)
+2. 💪 Opened PR [#2](https://github.com/marcominerva/FluentEmailSample/pull/2) in [marcominerva/FluentEmailSample](https://github.com/marcominerva/FluentEmailSample)
+3. 💪 Opened PR [#64](https://github.com/albx/KITT/pull/64) in [albx/KITT](https://github.com/albx/KITT)
+4. 💪 Opened PR [#76](https://github.com/edandersen/core-admin/pull/76) in [edandersen/core-admin](https://github.com/edandersen/core-admin)
+5. 🎉 Merged PR [#67](https://github.com/AngeloDotNet/GestioneSagre2/pull/67) in [AngeloDotNet/GestioneSagre2](https://github.com/AngeloDotNet/GestioneSagre2)
 <!--END_SECTION:activity-->
 
 

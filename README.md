@@ -49,6 +49,12 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ## :zap: GitHub Activities<br>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#19](https://github.com/Defkon1/it-events/pull/19) in [Defkon1/it-events](https://github.com/Defkon1/it-events)
+2. 💪 Opened PR [#2](https://github.com/kasuken/AzureSpeed/pull/2) in [kasuken/AzureSpeed](https://github.com/kasuken/AzureSpeed)
+3. 💪 Opened PR [#65](https://github.com/rprouse/dotnet-todo/pull/65) in [rprouse/dotnet-todo](https://github.com/rprouse/dotnet-todo)
+4. ❌ Closed PR [#2](https://github.com/marcominerva/FluentEmailSample/pull/2) in [marcominerva/FluentEmailSample](https://github.com/marcominerva/FluentEmailSample)
+5. 💪 Opened PR [#2](https://github.com/marcominerva/FluentEmailSample/pull/2) in [marcominerva/FluentEmailSample](https://github.com/marcominerva/FluentEmailSample)
+<!--END_SECTION:activity-->
 
 
 <!-- ## 💌 Support me<br>

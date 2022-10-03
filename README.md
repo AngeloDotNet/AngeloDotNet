@@ -49,11 +49,11 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 ## :zap: GitHub Activities<br>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/25) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-2. 🎉 Merged PR [#26](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/26) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-3. 🎉 Merged PR [#27](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/27) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
-4. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/IdentityJWTLibrary/pull/1) in [AngeloDotNet/IdentityJWTLibrary](https://github.com/AngeloDotNet/IdentityJWTLibrary)
-5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/MailKit.Custom/pull/1) in [AngeloDotNet/MailKit.Custom](https://github.com/AngeloDotNet/MailKit.Custom)
+1. ❌ Closed PR [#65](https://github.com/rprouse/dotnet-todo/pull/65) in [rprouse/dotnet-todo](https://github.com/rprouse/dotnet-todo)
+2. ❗️ Closed issue [#21](https://github.com/AngeloDotNet/Blazor.FacileBudget/issues/21) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+3. 🎉 Merged PR [#25](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/25) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+4. 🎉 Merged PR [#26](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/26) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
+5. 🎉 Merged PR [#27](https://github.com/AngeloDotNet/Blazor.FacileBudget/pull/27) in [AngeloDotNet/Blazor.FacileBudget](https://github.com/AngeloDotNet/Blazor.FacileBudget)
 <!--END_SECTION:activity-->
 
 

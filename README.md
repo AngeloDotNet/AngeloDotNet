@@ -40,7 +40,8 @@ I have been working in the ICT field since 2007, I am passionate about IT and te
 
 
 ## :chart_with_upwards_trend: Statistics<br>
-<img src="https://github-readme-stats.vercel.app/api?username=angelodotnet" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=angelodotnet" />-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=white&hide_border=false" />
 
 
 ## 🏆 Trophy<br>

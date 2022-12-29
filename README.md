@@ -63,11 +63,11 @@
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)-->
 
 
-## 💰 You can help me by Donating
+## 💰 You can help me by donating through:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/angelo9871) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

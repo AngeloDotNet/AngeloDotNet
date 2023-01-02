@@ -2,7 +2,8 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Luna Labs<br>🌱 I’m currently learning React Typescript, Angular and Blazor
+🔭 I'm currently working in Luna Labs as a .NET Developer<br>
+🌱 I’m currently learning React Typescript, Angular and Blazor
 
 
 ## 🌐 Socials:
@@ -54,13 +55,14 @@
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) -->
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+-->
 
 
 ## 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=default&hide_border=true)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=default&hide_border=true)
 
 
 <!--## 🏆 GitHub Trophies:

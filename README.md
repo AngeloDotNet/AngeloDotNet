@@ -65,8 +65,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=default&hide_border=true)
 
 
-<!--## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)-->
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 
 ## 💰 You can help me by donating through:

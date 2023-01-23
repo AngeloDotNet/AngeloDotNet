@@ -2,8 +2,8 @@
 
 
 ## 💫 About Me:
-🔭 I'm currently working in Luna Labs as a .NET Developer<br>
-🌱 I’m currently learning React Typescript, Angular and Blazor
+🔭 I'm currently working in Luna Labs as a .NET Senior Developer<br>
+🌱 I’m currently learning Blazor
 
 
 ## 🌐 Socials:

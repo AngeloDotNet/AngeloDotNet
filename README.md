@@ -69,7 +69,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 
-<!--## 💰 You can help me by donating through:
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/angelo9871) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 Recent Activities:
+<!--START_SECTION:activity-->

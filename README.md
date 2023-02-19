@@ -60,9 +60,7 @@
 
 
 ## 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=default&hide_border=true)
+[![Angelo Pirola's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies:

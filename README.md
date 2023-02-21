@@ -64,10 +64,6 @@
 [![Angelo Pirola's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
-
-
 ## 🧭 Recent Activities:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#35](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/35) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)

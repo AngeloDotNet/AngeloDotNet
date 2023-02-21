@@ -70,9 +70,9 @@
 
 ## 🧭 Recent Activities:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture/pull/2) in [yilmazmustafayilmaz/MY.OnionArchitecture](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture)
-2. 💪 Opened PR [#2](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture/pull/2) in [yilmazmustafayilmaz/MY.OnionArchitecture](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture)
-3. 💪 Opened PR [#78](https://github.com/albx/KITT/pull/78) in [albx/KITT](https://github.com/albx/KITT)
-4. 💪 Opened PR [#6](https://github.com/wilcommerce/Wilcommerce.Auth.Data.EFCore/pull/6) in [wilcommerce/Wilcommerce.Auth.Data.EFCore](https://github.com/wilcommerce/Wilcommerce.Auth.Data.EFCore)
+1. 🎉 Merged PR [#35](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/35) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+2. 🎉 Merged PR [#36](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/36) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+3. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/37) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. ❌ Closed PR [#2](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture/pull/2) in [yilmazmustafayilmaz/MY.OnionArchitecture](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture)
 5. 💪 Opened PR [#17](https://github.com/wilcommerce/Wilcommerce.Auth/pull/17) in [wilcommerce/Wilcommerce.Auth](https://github.com/wilcommerce/Wilcommerce.Auth)
 <!--END_SECTION:activity-->

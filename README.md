@@ -66,9 +66,9 @@
 
 ## 🧭 Recent Activities:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/35) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-2. 🎉 Merged PR [#36](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/36) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-3. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/37) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-4. ❌ Closed PR [#2](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture/pull/2) in [yilmazmustafayilmaz/MY.OnionArchitecture](https://github.com/yilmazmustafayilmaz/MY.OnionArchitecture)
-5. 💪 Opened PR [#17](https://github.com/wilcommerce/Wilcommerce.Auth/pull/17) in [wilcommerce/Wilcommerce.Auth](https://github.com/wilcommerce/Wilcommerce.Auth)
+1. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2/pull/1) in [AngeloDotNet/EFCoreGenericLibraryV2](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2)
+2. 💪 Opened PR [#1](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2/pull/1) in [AngeloDotNet/EFCoreGenericLibraryV2](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2)
+3. 🎉 Merged PR [#35](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/35) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#36](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/36) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/37) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

@@ -1,10 +1,10 @@
 # Hey there, I'm Angelo 👋
 
-## 💫 About Me:
+## 💫 About Me
 🔭 I'm currently working in Luna Labs as a .NET Senior Developer<br>
 🌱 I’m currently learning Blazor
 
-## 📱 Contact & Social:
+## 📱 Contact & Social
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloit87)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://about.me/AngeloPirola)
 [![](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet) 

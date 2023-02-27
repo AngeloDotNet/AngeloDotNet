@@ -2,7 +2,8 @@
 
 ## 💫 About Me
 🔭 I'm currently working in Luna Labs as a .NET Senior Developer<br>
-🌱 I’m currently learning Blazor
+🌱 I’m currently learning Blazor<br>
+⭐ If you like my open source repositories follow me on GitHub !
 
 ## 📱 Contact & Social
 [![](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet) 

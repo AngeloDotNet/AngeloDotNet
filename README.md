@@ -62,8 +62,8 @@
 <details>
   <summary>📊 GitHub Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default)
   
 </details>
 

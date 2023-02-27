@@ -59,11 +59,14 @@
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-## 📊 GitHub Stats
+<details>
+  <summary>📊 GitHub Stats</summary>
 ![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=blue-green)
+</details>
 
-## 🧭 Recent Activities:
+<details>
+  <summary>🧭 Recent Activities</summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/AngeloLunaLabs/GitFlow-Example/pull/1) in [AngeloLunaLabs/GitFlow-Example](https://github.com/AngeloLunaLabs/GitFlow-Example)
 2. 💪 Opened PR [#1](https://github.com/AngeloLunaLabs/GitFlow-Example/pull/1) in [AngeloLunaLabs/GitFlow-Example](https://github.com/AngeloLunaLabs/GitFlow-Example)
@@ -71,3 +74,4 @@
 4. 💪 Opened PR [#1](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2/pull/1) in [AngeloDotNet/EFCoreGenericLibraryV2](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2)
 5. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/37) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->
+</details>

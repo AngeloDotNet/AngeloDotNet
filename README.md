@@ -72,11 +72,11 @@
   <summary>🧭 Recent Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/33) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-2. 🎉 Merged PR [#34](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/34) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2/pull/1) in [AngeloDotNet/EFCoreGenericLibraryV2](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2)
-4. 💪 Opened PR [#1](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2/pull/1) in [AngeloDotNet/EFCoreGenericLibraryV2](https://github.com/AngeloDotNet/EFCoreGenericLibraryV2)
-5. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/37) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+1. ❌ Closed PR [#17](https://github.com/wilcommerce/Wilcommerce.Auth/pull/17) in [wilcommerce/Wilcommerce.Auth](https://github.com/wilcommerce/Wilcommerce.Auth)
+2. ❌ Closed PR [#6](https://github.com/wilcommerce/Wilcommerce.Auth.Data.EFCore/pull/6) in [wilcommerce/Wilcommerce.Auth.Data.EFCore](https://github.com/wilcommerce/Wilcommerce.Auth.Data.EFCore)
+3. ❌ Closed PR [#45](https://github.com/wilcommerce/Wilcommerce.Core/pull/45) in [wilcommerce/Wilcommerce.Core](https://github.com/wilcommerce/Wilcommerce.Core)
+4. ❌ Closed PR [#78](https://github.com/albx/KITT/pull/78) in [albx/KITT](https://github.com/albx/KITT)
+5. 🎉 Merged PR [#33](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/33) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->
   
 </details>

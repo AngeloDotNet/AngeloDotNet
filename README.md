@@ -77,7 +77,8 @@
 <details>
   <summary>📊 GitHub Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default)
+<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default)-->
+![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false&include_all_commits=true&count_private=true")
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default)
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
   

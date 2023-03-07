@@ -2,8 +2,8 @@
 
 ## 💫 About Me
 🔭 I'm currently working in Luna Labs as a .NET Senior Developer<br>
-⭐ If you like my open source repositories follow me on GitHub !<br>
-<!--🌱 I’m currently learning Blazor-->
+🌱 I’m currently learning Amazon AWS<br>
+⭐ If you like my open source repositories follow me on GitHub !
 
 ## 📱 Contact & Social
 [![](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelodotnet) 
@@ -74,18 +74,14 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  
-<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default)-->
-![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false&include_all_commits=true&count_private=true")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default)
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
-  
-</details>
+## 📊 GitHub Stats  
 
-<details>
-  <summary>🧭 Recent Activities</summary>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false&include_all_commits=true&count_private=true")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default)
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)-->
+
+## 🧭 Recent Activities
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#17](https://github.com/wilcommerce/Wilcommerce.Auth/pull/17) in [wilcommerce/Wilcommerce.Auth](https://github.com/wilcommerce/Wilcommerce.Auth)
@@ -94,5 +90,3 @@
 4. ❌ Closed PR [#78](https://github.com/albx/KITT/pull/78) in [albx/KITT](https://github.com/albx/KITT)
 5. 🎉 Merged PR [#33](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/33) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->
-  
-</details>

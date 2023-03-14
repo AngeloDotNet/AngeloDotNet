@@ -109,8 +109,8 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/wilcommerce/Wilcommerce.Auth/pull/17) in [wilcommerce/Wilcommerce.Auth](https://github.com/wilcommerce/Wilcommerce.Auth)
-2. ❌ Closed PR [#6](https://github.com/wilcommerce/Wilcommerce.Auth.Data.EFCore/pull/6) in [wilcommerce/Wilcommerce.Auth.Data.EFCore](https://github.com/wilcommerce/Wilcommerce.Auth.Data.EFCore)
+1. ❗️ Closed issue [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
+2. 🗣 Commented on [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
 3. ❌ Closed PR [#45](https://github.com/wilcommerce/Wilcommerce.Core/pull/45) in [wilcommerce/Wilcommerce.Core](https://github.com/wilcommerce/Wilcommerce.Core)
 4. ❌ Closed PR [#78](https://github.com/albx/KITT/pull/78) in [albx/KITT](https://github.com/albx/KITT)
 5. 🎉 Merged PR [#33](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/33) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)

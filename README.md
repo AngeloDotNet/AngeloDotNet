@@ -109,9 +109,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
-2. 🗣 Commented on [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
-3. ❌ Closed PR [#45](https://github.com/wilcommerce/Wilcommerce.Core/pull/45) in [wilcommerce/Wilcommerce.Core](https://github.com/wilcommerce/Wilcommerce.Core)
-4. ❌ Closed PR [#78](https://github.com/albx/KITT/pull/78) in [albx/KITT](https://github.com/albx/KITT)
+1. ❗️ Closed issue [#1](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions/issues/1) in [AngeloDotNet/MultiLanguageApiCustomExtensions](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions)
+2. 🗣 Commented on [#1](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions/issues/1) in [AngeloDotNet/MultiLanguageApiCustomExtensions](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions)
+3. ❗️ Closed issue [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
+4. 🗣 Commented on [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
 5. 🎉 Merged PR [#33](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/33) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

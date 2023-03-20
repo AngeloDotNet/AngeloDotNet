@@ -109,9 +109,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15874](https://github.com/home-assistant/frontend/pull/15874) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. ❗️ Opened issue [#1](https://github.com/AngeloDotNet/UploadFileCustomExtensions/issues/1) in [AngeloDotNet/UploadFileCustomExtensions](https://github.com/AngeloDotNet/UploadFileCustomExtensions)
-3. ❗️ Closed issue [#1](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions/issues/1) in [AngeloDotNet/MultiLanguageApiCustomExtensions](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions)
-4. 🗣 Commented on [#1](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions/issues/1) in [AngeloDotNet/MultiLanguageApiCustomExtensions](https://github.com/AngeloDotNet/MultiLanguageApiCustomExtensions)
-5. ❗️ Closed issue [#1](https://github.com/AngeloDotNet/SerilogCustomExtensions/issues/1) in [AngeloDotNet/SerilogCustomExtensions](https://github.com/AngeloDotNet/SerilogCustomExtensions)
+1. 🎉 Merged PR [#41](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/41) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+2. 🎉 Merged PR [#39](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/39) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+3. 🎉 Merged PR [#40](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/40) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#42](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/42) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 🎉 Merged PR [#38](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/38) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

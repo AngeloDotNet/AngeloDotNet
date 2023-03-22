@@ -109,9 +109,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/41) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-2. 🎉 Merged PR [#39](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/39) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-3. 🎉 Merged PR [#40](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/40) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-4. 🎉 Merged PR [#42](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/42) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-5. 🎉 Merged PR [#38](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/38) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+1. 🗣 Commented on [#2](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/2) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+2. 🗣 Commented on [#2](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/2) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+3. 🎉 Merged PR [#41](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/41) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#39](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/39) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 🎉 Merged PR [#40](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/40) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

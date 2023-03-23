@@ -112,6 +112,6 @@
 1. 🗣 Commented on [#2](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/2) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
 2. 🗣 Commented on [#2](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/2) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
 3. 🗣 Commented on [#2](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/2) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-4. 🎉 Merged PR [#41](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/41) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-5. 🎉 Merged PR [#39](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/39) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🗣 Commented on [#2](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/2) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+5. 🎉 Merged PR [#41](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/41) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

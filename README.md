@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Angelo ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+# :man_technologist: Hey there, I'm Angelo ! 👋 ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
 ## 💫 About Me

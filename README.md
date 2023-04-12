@@ -107,9 +107,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/1) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
-2. 💪 Opened PR [#1](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/1) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
-3. ❌ Closed PR [#13](https://github.com/kasuken/BlazorKit.Spinners/pull/13) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-4. 💪 Opened PR [#14](https://github.com/kasuken/BlazorKit.Spinners/pull/14) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-5. 🗣 Commented on [#12](https://github.com/kasuken/BlazorKit.Spinners/issues/12) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+1. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/4) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
+2. 💪 Opened PR [#4](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/4) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
+3. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/3) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
+4. 💪 Opened PR [#3](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/3) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
+5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/2) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
 <!--END_SECTION:activity-->

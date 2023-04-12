@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 🔭 I'm currently working in Luna Labs as a .NET Senior Developer<br>
-🌱 I’m currently learning Amazon AWS<br>
+🌱 I’m currently learning Microsoft Azure<br>
 ⭐ If you like my open source repositories follow me on GitHub !
 
 
@@ -99,8 +99,6 @@
 
 ## 📊 Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<!--![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false&include_all_commits=true&count_private=true")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=default)-->
 
 
 ## :trophy: Trophies

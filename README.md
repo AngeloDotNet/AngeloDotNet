@@ -107,9 +107,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/4) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
-2. 💪 Opened PR [#4](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/4) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
-3. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/3) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
-4. 💪 Opened PR [#3](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/3) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
-5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit/pull/2) in [AngeloDotNet/SampleRabbitMQMassTransit](https://github.com/AngeloDotNet/SampleRabbitMQMassTransit)
+1. 🎉 Merged PR [#44](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/44) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+2. 🎉 Merged PR [#45](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/45) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+3. 🎉 Merged PR [#46](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/46) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#47](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/47) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 🎉 Merged PR [#48](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/48) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

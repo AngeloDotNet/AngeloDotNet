@@ -98,13 +98,13 @@
 
 
 ## 📊 Statistics
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)-->
 [![Angelo Pirola's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloDotNet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloDotNet)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 ## :trophy: Trophies
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)-->
 
 
 ## :alarm_clock: Recent Activities

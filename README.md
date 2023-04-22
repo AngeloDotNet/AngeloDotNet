@@ -3,7 +3,6 @@
 
 ## 💫 About Me
 🔭 I'm currently working as a .NET Senior Developer<br>
-🌱 I’m currently learning Microsoft Azure<br>
 ⭐ If you like my open source repositories follow me on GitHub !
 
 

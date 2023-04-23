@@ -35,16 +35,13 @@
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 
-## ☁ Cloud
+## ☁ Cloud & Database
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Azure_DevOps-004880?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-CC2927?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## :card_file_box: Database
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)

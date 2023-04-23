@@ -108,9 +108,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/44) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-2. 🎉 Merged PR [#45](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/45) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-3. 🎉 Merged PR [#46](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/46) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-4. 🎉 Merged PR [#47](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/47) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-5. 🎉 Merged PR [#48](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/48) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+1. 💪 Opened PR [#247](https://github.com/sindresorhus/amas/pull/247) in [sindresorhus/amas](https://github.com/sindresorhus/amas)
+2. 🎉 Merged PR [#44](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/44) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+3. 🎉 Merged PR [#45](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/45) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#46](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/46) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 🎉 Merged PR [#47](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/47) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

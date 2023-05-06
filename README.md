@@ -92,8 +92,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
-<!--## :trophy: Trophies
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)-->
+## :trophy: Trophies
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
 
 
 ## :alarm_clock: Recent Activities

@@ -87,12 +87,11 @@
 -->
 
 ## 📊 Statistics
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![GitHub metrics](https://metrics.lecoq.io/angelodotnet)
 
-
-## :trophy: Trophies
+<!-- ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)-->
-![GitHub metrics](https://metrics.lecoq.io/angelodotnet)  
 
 
 ## :alarm_clock: Recent Activities

@@ -96,9 +96,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-2. ❗️ Opened issue [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-3. ❗️ Closed issue [#32](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/32) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-4. ❗️ Opened issue [#32](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/32) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-5. ❗️ Opened issue [#31](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/31) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+1. ❗️ Opened issue [#34](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/34) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+2. ❗️ Closed issue [#28](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/28) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+3. 🗣 Commented on [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+4. ❗️ Opened issue [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+5. ❗️ Closed issue [#32](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/32) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
 <!--END_SECTION:activity-->

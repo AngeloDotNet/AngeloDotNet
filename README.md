@@ -96,9 +96,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/2) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-2. 💪 Opened PR [#2](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/2) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/1) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-4. 💪 Opened PR [#1](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/1) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-5. ❗️ Opened issue [#34](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/34) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+1. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+2. 💪 Opened PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+3. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/3) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+4. 💪 Opened PR [#3](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/3) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/2) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
 <!--END_SECTION:activity-->

@@ -87,8 +87,9 @@
 -->
 
 ## 📊 Statistics
-![GitHub metrics](https://metrics.lecoq.io/angelodotnet)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/angelodotnet) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false" />
 
 <!-- ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)-->

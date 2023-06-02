@@ -97,9 +97,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#247](https://github.com/microsoft/dev-tunnels/issues/247) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
-2. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-3. 💪 Opened PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-4. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/3) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-5. 💪 Opened PR [#3](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/3) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+1. 💪 Opened PR [#852](https://github.com/jasontaylordev/CleanArchitecture/pull/852) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+2. 💪 Opened PR [#1386](https://github.com/microsoft/dotnet/pull/1386) in [microsoft/dotnet](https://github.com/microsoft/dotnet)
+3. ❗ Opened issue [#247](https://github.com/microsoft/dev-tunnels/issues/247) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
+4. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+5. 💪 Opened PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
 <!--END_SECTION:activity-->

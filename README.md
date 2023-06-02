@@ -97,9 +97,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#852](https://github.com/jasontaylordev/CleanArchitecture/pull/852) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-2. 💪 Opened PR [#1386](https://github.com/microsoft/dotnet/pull/1386) in [microsoft/dotnet](https://github.com/microsoft/dotnet)
-3. ❗ Opened issue [#247](https://github.com/microsoft/dev-tunnels/issues/247) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
-4. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
-5. 💪 Opened PR [#4](https://github.com/AngeloDotNet/CustomLibrary.EFCore/pull/4) in [AngeloDotNet/CustomLibrary.EFCore](https://github.com/AngeloDotNet/CustomLibrary.EFCore)
+1. 🔒 Closed issue [#20](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/20) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+2. 🔒 Closed issue [#31](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/31) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+3. 🔒 Closed issue [#34](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/34) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+4. 💪 Opened PR [#852](https://github.com/jasontaylordev/CleanArchitecture/pull/852) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+5. 💪 Opened PR [#1386](https://github.com/microsoft/dotnet/pull/1386) in [microsoft/dotnet](https://github.com/microsoft/dotnet)
 <!--END_SECTION:activity-->

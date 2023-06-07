@@ -97,9 +97,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/16) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-2. 🔒 Closed issue [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-3. 🗣 Commented on [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
-4. 🔒 Closed issue [#95](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues/95) in [ProfAndreaPollini/profandreapollini-youtube-videos](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos)
-5. 🔒 Closed issue [#20](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/20) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+1. ❗ Opened issue [#35](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/35) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+2. 🔒 Closed issue [#16](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/16) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+3. 🔒 Closed issue [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+4. 🗣 Commented on [#33](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/33) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+5. 🔒 Closed issue [#95](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues/95) in [ProfAndreaPollini/profandreapollini-youtube-videos](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos)
 <!--END_SECTION:activity-->

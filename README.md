@@ -97,9 +97,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/albx/KITT/issues/86) in [albx/KITT](https://github.com/albx/KITT)
-2. 💪 Opened PR [#86](https://github.com/albx/KITT/pull/86) in [albx/KITT](https://github.com/albx/KITT)
-3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/1) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. 💪 Opened PR [#1](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/1) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-5. 🔒 Closed issue [#29](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/29) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
+1. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/2) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+2. 💪 Opened PR [#2](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/2) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. 🗣 Commented on [#86](https://github.com/albx/KITT/issues/86) in [albx/KITT](https://github.com/albx/KITT)
+4. 💪 Opened PR [#86](https://github.com/albx/KITT/pull/86) in [albx/KITT](https://github.com/albx/KITT)
+5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/1) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
 <!--END_SECTION:activity-->

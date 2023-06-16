@@ -97,9 +97,9 @@
 
 ## :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/2) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. 💪 Opened PR [#2](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/2) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🗣 Commented on [#86](https://github.com/albx/KITT/issues/86) in [albx/KITT](https://github.com/albx/KITT)
-4. 💪 Opened PR [#86](https://github.com/albx/KITT/pull/86) in [albx/KITT](https://github.com/albx/KITT)
-5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/1) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+1. ❗ Opened issue [#6](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/6) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+2. ❗ Opened issue [#5](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/5) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. ❗ Opened issue [#4](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/4) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+4. ❗ Opened issue [#3](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/3) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/2) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
 <!--END_SECTION:activity-->

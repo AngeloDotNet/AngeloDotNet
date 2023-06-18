@@ -86,9 +86,9 @@
 
 ### :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/6) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. 🎉 Merged PR [#7](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/7) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🗣 Commented on [#7](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/7) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. 💪 Opened PR [#7](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/7) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-5. 💪 Opened PR [#40](https://github.com/mastreeno/Merp/pull/40) in [mastreeno/Merp](https://github.com/mastreeno/Merp)
+1. 🔒 Closed issue [#8](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/8) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+2. 🎉 Merged PR [#9](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/9) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. 🗣 Commented on [#9](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/9) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+4. 💪 Opened PR [#9](https://github.com/AngeloDotNet/GestioneSagreWeb/pull/9) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+5. ❗ Opened issue [#8](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/8) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
 <!--END_SECTION:activity-->

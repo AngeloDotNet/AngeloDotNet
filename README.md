@@ -92,3 +92,8 @@
 4. 🔒 Closed issue [#37](https://github.com/AngeloDotNet/NET6CustomLibrary/issues/37) in [AngeloDotNet/NET6CustomLibrary](https://github.com/AngeloDotNet/NET6CustomLibrary)
 5. 🗣 Commented on [#247](https://github.com/microsoft/dev-tunnels/issues/247) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
 <!--END_SECTION:activity-->
+
+### :receipt: Donations
+These are projects developed out of passion, but if you want to give a coffee as a gift, feel free!
+
+<a href="https://www.buymeacoffee.com/angelodotnet"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=angelodotnet&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>

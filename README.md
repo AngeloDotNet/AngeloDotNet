@@ -77,12 +77,7 @@
 -->
 
 ### 📊 Statistics
-<!-- ![GitHub metrics](https://metrics.lecoq.io/angelodotnet) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false" />
-
-<!-- ## :trophy: Trophies
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)-->
 
 ### :alarm_clock: Recent Activities
 <!--START_SECTION:activity-->
@@ -98,3 +93,6 @@ These are projects developed out of passion, but if you want to gift a pizza, fe
 
 <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 60px !important;width: 217px !important;font_family=Comic" ></a>
 <!--<a href="https://www.buymeacoffee.com/angelodotnet"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=angelodotnet&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>-->
+
+## :trophy: Trophies
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)

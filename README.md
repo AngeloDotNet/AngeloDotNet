@@ -1,7 +1,7 @@
 ## 👨‍💻 Hey there, I'm Angelo ! 👋 ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## 💫 About Me
-🔭 I'm currently working as a .NET Senior Developer<br>
+🔭 I am currently working as a .NET Senior Developer at Luna Labs<br>
 ⭐ If you like my open source repositories follow me on GitHub !
 
 ## 📱 Contact & Social

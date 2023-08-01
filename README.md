@@ -20,5 +20,7 @@ These are projects mainly developed out of passion, but if you want to give me a
 
 <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 60px !important;width: 217px !important;font_family=Comic" ></a>
 
+<!--
 ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
+-->

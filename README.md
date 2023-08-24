@@ -14,10 +14,10 @@
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://about.me/AngeloPirola)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87)
 
-## :receipt: Donations
+<!--## :receipt: Donations
 These are projects mainly developed out of passion, but if you want to give me a beer, feel free!
 
-<a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 60px !important;width: 217px !important;font_family=Comic" ></a>
+<a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 60px !important;width: 217px !important;font_family=Comic" ></a> -->
 
 ## 📊 Statistics
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)

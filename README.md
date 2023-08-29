@@ -20,10 +20,8 @@ These are projects mainly developed out of passion, but if you want to give me a
 <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 60px !important;width: 217px !important;font_family=Comic" ></a> -->
 
 ## 📊 Statistics
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AngeloDotNet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="angelodotnet's GitHub Stats" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=blue-green" />
+[![Angelo Pirola's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--## :trophy: Trophies
-![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default) -->
+## :trophy: Trophies
+![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)

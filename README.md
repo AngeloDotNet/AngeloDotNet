@@ -10,10 +10,6 @@
 [![](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://about.me/AngeloPirola)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/angeloit87)
 
-## Hacktoberfest Badges
-[![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87#badges)
-<!--[![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)-->
-
 ## :moneybag: Donations
 These are projects mainly developed out of passion, but if you want to give me a coffee, feel free!
 
@@ -26,3 +22,7 @@ These are projects mainly developed out of passion, but if you want to give me a
 
 ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
+
+## Hacktoberfest Badges
+[![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87#badges)
+<!--[![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)-->

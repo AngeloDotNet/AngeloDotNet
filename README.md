@@ -23,6 +23,7 @@ These are projects mainly developed out of passion, but if you want to give me a
 ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
 
+<!--
 ## Hacktoberfest Badges
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87#badges)
-<!--[![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)-->
+-->

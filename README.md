@@ -15,15 +15,17 @@ These are projects mainly developed out of passion, but if you want to give me a
 
 <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;font_family=Comic" ></a>
 
-<!--## :chart_with_upwards_trend: Statistics
+## :chart_with_upwards_trend: Statistics
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=angelodotnet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelodotnet&show_icons=true&locale=en&layout=compact" alt="angelodotnet" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&locale=en" alt="angelodotnet" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&locale=en" alt="angelodotnet" /></p>
 
+<!--
 ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
 
-<!--
 ## Hacktoberfest Badges
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87#badges)
 -->

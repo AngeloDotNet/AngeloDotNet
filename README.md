@@ -1,7 +1,6 @@
 ## 👨‍💻 Hey there, I'm Angelo ! 👋 ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?logo=intel&logoColor=white&style=for-the-badge)
 
 ## 📱 Contact & Social
-[![](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/angelodotnet) 
 [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/angeloit87)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/angeloit87)
 [![](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://about.me/AngeloPirola)

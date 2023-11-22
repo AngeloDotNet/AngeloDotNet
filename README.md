@@ -19,10 +19,10 @@ These are projects mainly developed out of passion, but if you want to give me a
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelodotnet&show_icons=true&locale=en&layout=compact" alt="angelodotnet" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&locale=en" alt="angelodotnet" /></p>
 
+<!--
 ## :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
 
-<!--
 ## Hacktoberfest Badges
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87#badges)
 -->

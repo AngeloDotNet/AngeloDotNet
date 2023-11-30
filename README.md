@@ -34,4 +34,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#75](https://github.com/kasuken/SonequaBot/pull/75#issuecomment-1819320462) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+2. 💪 Opened PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+3. 🎉 Merged PR [#84](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/84) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#86](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/86) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 🎉 Merged PR [#85](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/85) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->

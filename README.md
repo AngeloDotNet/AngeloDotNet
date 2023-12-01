@@ -1,4 +1,4 @@
-## :wave: Hey there, I'm Angelo ! :technologist: ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?logo=intel&logoColor=white&style=for-the-badge)
+## :wave: Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?logo=intel&logoColor=white&style=for-the-badge)
 
 ### :clipboard: Social
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pirolaangelo)

@@ -29,9 +29,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36#issuecomment-1837145461) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. 🔒 Closed issue [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🗣 Commented on [#75](https://github.com/kasuken/SonequaBot/pull/75#issuecomment-1819320462) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
-4. 💪 Opened PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
-5. 🎉 Merged PR [#84](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/84) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+1. ❗ Opened issue [#1](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/1) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+2. 🗣 Commented on [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36#issuecomment-1837145461) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. 🔒 Closed issue [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+4. 🗣 Commented on [#75](https://github.com/kasuken/SonequaBot/pull/75#issuecomment-1819320462) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+5. 💪 Opened PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
 <!--END_SECTION:activity-->

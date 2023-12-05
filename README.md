@@ -29,9 +29,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/1) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
-2. 🗣 Commented on [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36#issuecomment-1837145461) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🔒 Closed issue [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. 🗣 Commented on [#75](https://github.com/kasuken/SonequaBot/pull/75#issuecomment-1819320462) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
-5. 💪 Opened PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+1. 🗣 Commented on [#22](https://github.com/albx/KITT.Web.ReCaptcha/issues/22#issuecomment-1841623599) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
+2. 💪 Opened PR [#24](https://github.com/albx/KITT.Web.ReCaptcha/pull/24) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
+3. 💪 Opened PR [#23](https://github.com/albx/KITT.Web.ReCaptcha/pull/23) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
+4. ❗ Opened issue [#1](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/1) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+5. 🗣 Commented on [#36](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/36#issuecomment-1837145461) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
 <!--END_SECTION:activity-->

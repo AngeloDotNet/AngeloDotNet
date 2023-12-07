@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Docker-1071D3?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/u/angelo87dock)
 
 ### :loudspeaker: Live streaming (Coming soon)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@angeloit87)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ19zdw2zsjy4HfL1Tvtksw)
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/angeloit87)
 
 ### :money_with_wings: Donations

@@ -30,9 +30,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. ❗ Opened issue [#55](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/55) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. ❗ Opened issue [#2](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/2) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
-4. 🗣 Commented on [#22](https://github.com/albx/KITT.Web.ReCaptcha/issues/22#issuecomment-1841623599) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
-5. 💪 Opened PR [#24](https://github.com/albx/KITT.Web.ReCaptcha/pull/24) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
+1. ❗ Opened issue [#3](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/3) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+2. ❗ Opened issue [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. ❗ Opened issue [#55](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/55) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+4. ❗ Opened issue [#2](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/2) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+5. 🗣 Commented on [#22](https://github.com/albx/KITT.Web.ReCaptcha/issues/22#issuecomment-1841623599) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
 <!--END_SECTION:activity-->

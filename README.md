@@ -18,14 +18,17 @@ These are projects mainly developed out of passion, but if you want to give me a
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/angelodotnet)
 
 ### :bar_chart: Statistics
-<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=angelodotnet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
--->
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelodotnet&show_icons=true&locale=en&layout=compact" alt="angelodotnet" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&locale=en" alt="angelodotnet" /></p>
+-->
 
 ### :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
+
+### :zap: Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=github)
 
 ### :zap: Recent Activity
 

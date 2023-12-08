@@ -27,7 +27,7 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
 
-### :zap: Activity Graph
+### :chart_with_upwards_trend: Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=github)
 
 ### :zap: Recent Activity

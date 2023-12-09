@@ -33,9 +33,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/UGIdotNET/SpikeTime/pull/1) in [UGIdotNET/SpikeTime](https://github.com/UGIdotNET/SpikeTime)
-2. ❗ Opened issue [#3](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/3) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
-3. ❗ Opened issue [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. ❗ Opened issue [#55](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/55) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-5. ❗ Opened issue [#2](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/2) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+1. 🔒 Closed issue [#4](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/4) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+2. 🗣 Commented on [#4](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/4#issuecomment-1848383537) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+3. ❗ Opened issue [#4](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/4) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+4. 💪 Opened PR [#1](https://github.com/UGIdotNET/SpikeTime/pull/1) in [UGIdotNET/SpikeTime](https://github.com/UGIdotNET/SpikeTime)
+5. ❗ Opened issue [#3](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/3) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
 <!--END_SECTION:activity-->

@@ -33,9 +33,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/albx/KITT.Web.ReCaptcha/issues/22#issuecomment-1848785813) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
-2. 🗣 Commented on [#24](https://github.com/albx/KITT.Web.ReCaptcha/pull/24#issuecomment-1848785003) in [albx/KITT.Web.ReCaptcha](https://github.com/albx/KITT.Web.ReCaptcha)
-3. 🔒 Closed issue [#4](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/4) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
-4. 🗣 Commented on [#4](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/4#issuecomment-1848383537) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
-5. ❗ Opened issue [#4](https://github.com/AngeloDotNet/GestioneSagreWeb.Client/issues/4) in [AngeloDotNet/GestioneSagreWeb.Client](https://github.com/AngeloDotNet/GestioneSagreWeb.Client)
+1. 🗣 Commented on [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8#issuecomment-1850352060) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
+2. 💪 Opened PR [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
+3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi/pull/1) in [AngeloDotNet/CleanAspNetCoreWebApi](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi)
+4. 💪 Opened PR [#11](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/11) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
+5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/CH.CleanArchitecture/pull/1) in [AngeloDotNet/CH.CleanArchitecture](https://github.com/AngeloDotNet/CH.CleanArchitecture)
 <!--END_SECTION:activity-->

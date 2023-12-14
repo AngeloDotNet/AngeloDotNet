@@ -35,9 +35,9 @@ These are projects mainly developed out of passion, but if you want to give me a
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8#issuecomment-1850352060) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
-2. 💪 Opened PR [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
-3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi/pull/1) in [AngeloDotNet/CleanAspNetCoreWebApi](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi)
-4. 💪 Opened PR [#11](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/11) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
-5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/CH.CleanArchitecture/pull/1) in [AngeloDotNet/CH.CleanArchitecture](https://github.com/AngeloDotNet/CH.CleanArchitecture)
+1. 🔒 Closed issue [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+2. 🗣 Commented on [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56#issuecomment-1855819811) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. 🗣 Commented on [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8#issuecomment-1850352060) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
+4. 💪 Opened PR [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
+5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi/pull/1) in [AngeloDotNet/CleanAspNetCoreWebApi](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi)
 <!--END_SECTION:activity-->

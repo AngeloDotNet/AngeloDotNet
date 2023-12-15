@@ -27,9 +27,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/57) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. 🔒 Closed issue [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🗣 Commented on [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56#issuecomment-1855819811) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. 🗣 Commented on [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8#issuecomment-1850352060) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
-5. 💪 Opened PR [#8](https://github.com/mmacneil/CleanAspNetCoreWebApi/pull/8) in [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi)
+1. 🔒 Closed issue [#57](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/57) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+2. 🗣 Commented on [#57](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/57#issuecomment-1857820175) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. ❗ Opened issue [#57](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/57) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+4. 🔒 Closed issue [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+5. 🗣 Commented on [#56](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/56#issuecomment-1855819811) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
 <!--END_SECTION:activity-->

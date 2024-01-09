@@ -24,9 +24,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/35#issuecomment-1875786973) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. 🔒 Closed issue [#35](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/35) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🗣 Commented on [#27](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/27#issuecomment-1872923523) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. 🔒 Closed issue [#27](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/27) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-5. 🔒 Closed issue [#51](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/51) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+1. ❗ Opened issue [#59](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/59) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+2. ❗ Opened issue [#58](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/58) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/React.Playground/pull/1) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+4. 🗣 Commented on [#35](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/35#issuecomment-1875786973) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+5. 🔒 Closed issue [#35](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/35) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
 <!--END_SECTION:activity-->

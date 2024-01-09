@@ -1,13 +1,9 @@
 ## :wave: Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?logo=intel&logoColor=white&style=for-the-badge)
 
 ### :clipboard: Social
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pirolaangelo)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angeloit87)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angeloit87)
-[![](https://img.shields.io/badge/Docker-1071D3?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/u/angelo87dock)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pirolaangelo)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/angeloit87)
-
-### :loudspeaker: Live streaming (Coming soon)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ19zdw2zsjy4HfL1Tvtksw)
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/angeloit87)
 

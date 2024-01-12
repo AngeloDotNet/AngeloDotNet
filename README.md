@@ -24,9 +24,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/SampleJWT.ASPNETCoreIdentity/pull/1) in [AngeloDotNet/SampleJWT.ASPNETCoreIdentity](https://github.com/AngeloDotNet/SampleJWT.ASPNETCoreIdentity)
-2. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/IdentityJWTLibrary/pull/2) in [AngeloDotNet/IdentityJWTLibrary](https://github.com/AngeloDotNet/IdentityJWTLibrary)
-3. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/MultipleApi.AuthIdentityJWT/pull/1) in [AngeloDotNet/MultipleApi.AuthIdentityJWT](https://github.com/AngeloDotNet/MultipleApi.AuthIdentityJWT)
-4. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi/pull/2) in [AngeloDotNet/CleanAspNetCoreWebApi](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi)
-5. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/React.Playground/pull/4) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+1. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/WebApi.IdentityJWT/pull/2) in [AngeloDotNet/WebApi.IdentityJWT](https://github.com/AngeloDotNet/WebApi.IdentityJWT)
+2. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/SampleJWT.ASPNETCoreIdentity/pull/1) in [AngeloDotNet/SampleJWT.ASPNETCoreIdentity](https://github.com/AngeloDotNet/SampleJWT.ASPNETCoreIdentity)
+3. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/IdentityJWTLibrary/pull/2) in [AngeloDotNet/IdentityJWTLibrary](https://github.com/AngeloDotNet/IdentityJWTLibrary)
+4. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/MultipleApi.AuthIdentityJWT/pull/1) in [AngeloDotNet/MultipleApi.AuthIdentityJWT](https://github.com/AngeloDotNet/MultipleApi.AuthIdentityJWT)
+5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi/pull/2) in [AngeloDotNet/CleanAspNetCoreWebApi](https://github.com/AngeloDotNet/CleanAspNetCoreWebApi)
 <!--END_SECTION:activity-->

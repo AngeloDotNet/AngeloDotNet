@@ -24,9 +24,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/AngeloDotNet/React.Playground/pull/12) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
-2. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/WebApi.IdentityJWT/pull/1) in [AngeloDotNet/WebApi.IdentityJWT](https://github.com/AngeloDotNet/WebApi.IdentityJWT)
-3. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/WebApi.IdentityJWT/pull/2) in [AngeloDotNet/WebApi.IdentityJWT](https://github.com/AngeloDotNet/WebApi.IdentityJWT)
-4. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/SampleJWT.ASPNETCoreIdentity/pull/1) in [AngeloDotNet/SampleJWT.ASPNETCoreIdentity](https://github.com/AngeloDotNet/SampleJWT.ASPNETCoreIdentity)
-5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/IdentityJWTLibrary/pull/2) in [AngeloDotNet/IdentityJWTLibrary](https://github.com/AngeloDotNet/IdentityJWTLibrary)
+1. 🎉 Merged PR [#11](https://github.com/AngeloDotNet/React.Playground/pull/11) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+2. 🎉 Merged PR [#7](https://github.com/AngeloDotNet/React.Playground/pull/7) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+3. 🎉 Merged PR [#10](https://github.com/AngeloDotNet/React.Playground/pull/10) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+4. 🎉 Merged PR [#12](https://github.com/AngeloDotNet/React.Playground/pull/12) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/WebApi.IdentityJWT/pull/1) in [AngeloDotNet/WebApi.IdentityJWT](https://github.com/AngeloDotNet/WebApi.IdentityJWT)
 <!--END_SECTION:activity-->

@@ -7,19 +7,17 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ19zdw2zsjy4HfL1Tvtksw)
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/angeloit87)
 
-<!--
 ### :bar_chart: Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=angelodotnet&locale=it&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelodotnet&show_icons=true&locale=en&layout=compact" alt="angelodotnet" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&locale=en" alt="angelodotnet" /></p>
--->
 
+<!--
 ### :trophy: Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelodotnet&theme=default)
 
 ### :chart_with_upwards_trend: Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=github)
+-->
 
 ### :zap: Recent Activity
 

@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/13) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
-2. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CH.CleanArchitecture/pull/2) in [AngeloDotNet/CH.CleanArchitecture](https://github.com/AngeloDotNet/CH.CleanArchitecture)
-3. 🎉 Merged PR [#11](https://github.com/AngeloDotNet/React.Playground/pull/11) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
-4. 🎉 Merged PR [#7](https://github.com/AngeloDotNet/React.Playground/pull/7) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
-5. 🎉 Merged PR [#10](https://github.com/AngeloDotNet/React.Playground/pull/10) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+1. 🗣 Commented on [#1](https://github.com/albx/live.morialberto.it/issues/1#issuecomment-1912761822) in [albx/live.morialberto.it](https://github.com/albx/live.morialberto.it)
+2. 💪 Opened PR [#13](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/13) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
+3. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CH.CleanArchitecture/pull/2) in [AngeloDotNet/CH.CleanArchitecture](https://github.com/AngeloDotNet/CH.CleanArchitecture)
+4. 🎉 Merged PR [#11](https://github.com/AngeloDotNet/React.Playground/pull/11) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
+5. 🎉 Merged PR [#7](https://github.com/AngeloDotNet/React.Playground/pull/7) in [AngeloDotNet/React.Playground](https://github.com/AngeloDotNet/React.Playground)
 <!--END_SECTION:activity-->

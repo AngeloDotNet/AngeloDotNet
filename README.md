@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#59](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/59) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-2. 🔒 Closed issue [#58](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/58) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🗣 Commented on [#1](https://github.com/albx/live.morialberto.it/issues/1#issuecomment-1912761822) in [albx/live.morialberto.it](https://github.com/albx/live.morialberto.it)
-4. 💪 Opened PR [#13](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/13) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
-5. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/CH.CleanArchitecture/pull/2) in [AngeloDotNet/CH.CleanArchitecture](https://github.com/AngeloDotNet/CH.CleanArchitecture)
+1. 🗣 Commented on [#1](https://github.com/albx/live.morialberto.it/issues/1#issuecomment-1924404911) in [albx/live.morialberto.it](https://github.com/albx/live.morialberto.it)
+2. 🔒 Closed issue [#59](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/59) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+3. 🔒 Closed issue [#58](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/58) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
+4. 🗣 Commented on [#1](https://github.com/albx/live.morialberto.it/issues/1#issuecomment-1912761822) in [albx/live.morialberto.it](https://github.com/albx/live.morialberto.it)
+5. 💪 Opened PR [#13](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/13) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
 <!--END_SECTION:activity-->

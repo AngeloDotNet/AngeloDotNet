@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/albx/live.morialberto.it/issues/1#issuecomment-1924404911) in [albx/live.morialberto.it](https://github.com/albx/live.morialberto.it)
-2. 🔒 Closed issue [#59](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/59) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-3. 🔒 Closed issue [#58](https://github.com/AngeloDotNet/GestioneSagreWeb/issues/58) in [AngeloDotNet/GestioneSagreWeb](https://github.com/AngeloDotNet/GestioneSagreWeb)
-4. 🗣 Commented on [#1](https://github.com/albx/live.morialberto.it/issues/1#issuecomment-1912761822) in [albx/live.morialberto.it](https://github.com/albx/live.morialberto.it)
-5. 💪 Opened PR [#13](https://github.com/thecodewrapper/CH.CleanArchitecture/pull/13) in [thecodewrapper/CH.CleanArchitecture](https://github.com/thecodewrapper/CH.CleanArchitecture)
+1. ❌ Closed PR [#40](https://github.com/mastreeno/Merp/pull/40) in [mastreeno/Merp](https://github.com/mastreeno/Merp)
+2. 🎉 Merged PR [#5](https://github.com/AngeloDotNet/Merp/pull/5) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
+3. 🎉 Merged PR [#8](https://github.com/AngeloDotNet/Merp/pull/8) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
+4. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/Merp/pull/4) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
+5. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/Merp/pull/3) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
 <!--END_SECTION:activity-->

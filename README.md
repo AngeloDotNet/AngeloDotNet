@@ -30,14 +30,5 @@
 
 ### :chart_with_upwards_trend: Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=github)
+
 -->
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#40](https://github.com/mastreeno/Merp/pull/40) in [mastreeno/Merp](https://github.com/mastreeno/Merp)
-2. 🎉 Merged PR [#5](https://github.com/AngeloDotNet/Merp/pull/5) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
-3. 🎉 Merged PR [#8](https://github.com/AngeloDotNet/Merp/pull/8) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
-4. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/Merp/pull/4) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
-5. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/Merp/pull/3) in [AngeloDotNet/Merp](https://github.com/AngeloDotNet/Merp)
-<!--END_SECTION:activity-->

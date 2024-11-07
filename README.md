@@ -1,12 +1,13 @@
-## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) [![GitHub followers](https://img.shields.io/github/followers/angelodotnet?label=GitHub%20Followers&style=for-the-badge)](https://github.com/angelodotnet)
 <!--
 ### HacktoberFest 2024
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
 -->
-
-[![GitHub followers](https://img.shields.io/github/followers/angelodotnet?label=GitHub%20Followers&style=for-the-badge)](https://github.com/angelodotnet)
-
 ### 📊 Statistics
+![AngeloDotNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&layout=compact)
+[![AngeloDotNet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=dracula)](https://github.com/angelodotnet)
+<!--
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -14,6 +15,7 @@
     <td valign="top" width="50%"><a href="http://www.github.com/angelodotnet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a></td>
   </tr>
 </table>
+-->
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->

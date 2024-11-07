@@ -19,11 +19,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/kasuken/BlazorKit.Spinners/pull/15) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-2. 🎉 Merged PR [#10](https://github.com/AngeloDotNet/GSWCloudApp/pull/10) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 💪 Opened PR [#10](https://github.com/AngeloDotNet/GSWCloudApp/pull/10) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. 🎉 Merged PR [#9](https://github.com/AngeloDotNet/GSWCloudApp/pull/9) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. 💪 Opened PR [#9](https://github.com/AngeloDotNet/GSWCloudApp/pull/9) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+1. 🚀 Published release [GSWCloudApp.Common 1.0.11](https://github.com/AngeloDotNet/GSWCloudApp/releases/tag/Common_v1.0.11) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. 🎉 Merged PR [#16](https://github.com/AngeloDotNet/GSWCloudApp/pull/16) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 💪 Opened PR [#16](https://github.com/AngeloDotNet/GSWCloudApp/pull/16) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 🎉 Merged PR [#15](https://github.com/AngeloDotNet/GSWCloudApp/pull/15) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. 💪 Opened PR [#15](https://github.com/AngeloDotNet/GSWCloudApp/pull/15) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 
 ### ☕ Support AngeloDotNet's work

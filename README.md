@@ -19,11 +19,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/AngeloDotNet/GSWCloudApp/pull/18) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. 💪 Opened PR [#18](https://github.com/AngeloDotNet/GSWCloudApp/pull/18) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 🎉 Merged PR [#17](https://github.com/AngeloDotNet/GSWCloudApp/pull/17) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. 💪 Opened PR [#17](https://github.com/AngeloDotNet/GSWCloudApp/pull/17) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. 💪 Opened PR [#8](https://github.com/NetDevForLife/AspNetCore.Upload/pull/8) in [NetDevForLife/AspNetCore.Upload](https://github.com/NetDevForLife/AspNetCore.Upload)
+1. 🎉 Merged PR [#21](https://github.com/AngeloDotNet/GSWCloudApp/pull/21) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. 💪 Opened PR [#21](https://github.com/AngeloDotNet/GSWCloudApp/pull/21) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 🎉 Merged PR [#20](https://github.com/AngeloDotNet/GSWCloudApp/pull/20) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 💪 Opened PR [#20](https://github.com/AngeloDotNet/GSWCloudApp/pull/20) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. 🎉 Merged PR [#19](https://github.com/AngeloDotNet/GSWCloudApp/pull/19) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 
 ### ☕ Support AngeloDotNet's work

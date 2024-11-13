@@ -4,18 +4,10 @@
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
 -->
 ### 📊 Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=dracula)
 ![AngeloDotNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&layout=compact)
-[![AngeloDotNet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=dracula)](https://github.com/angelodotnet)
-<!--
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="http://www.github.com/angelodotnet"><img src="https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="angelodotnet's GitHub stats" /></a></td>
-    <td valign="top" width="50%"><a href="http://www.github.com/angelodotnet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a></td>
-  </tr>
-</table>
--->
+<!--[![AngeloDotNet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=dracula)](https://github.com/angelodotnet)-->
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->

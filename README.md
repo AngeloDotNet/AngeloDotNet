@@ -4,10 +4,15 @@
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
 -->
 ### 📊 Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=darcula)
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dark&utcOffset=1)
 ![AngeloDotNet's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&layout=compact)
-<!--[![AngeloDotNet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=dracula)](https://github.com/angelodotnet)-->
+[![AngeloDotNet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelodotnet&theme=dracula)](https://github.com/angelodotnet)
+-->
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->

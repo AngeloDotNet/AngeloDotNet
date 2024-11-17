@@ -13,7 +13,7 @@
 
 ### 📝 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom NET8 entity framework core generic repository](https://dev.to/angelodotnet/custom-net8-entity-framework-core-generic-repository-35mn)
+- [Custom NET8 Entity Framework Core Generic Repository](https://dev.to/angelodotnet/custom-net8-entity-framework-core-generic-repository-35mn)
 - [Hacktoberfest 2024](https://dev.to/angelodotnet/hacktoberfest-2024-2845)
 <!-- BLOG-POST-LIST:END -->
 

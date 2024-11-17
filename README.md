@@ -2,10 +2,10 @@
 <!--
 ### HacktoberFest 2024
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
--->
+
 ### 📱 Contact me
 <a href="https://dev.to/angelodotnet"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-
+-->
 ### 📊 Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=darcula)

@@ -13,6 +13,7 @@
 
 ### 📝 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker configurations for relational and non-relational databases](https://dev.to/angelodotnet/docker-configurations-for-relational-and-non-relational-databases-ekc)
 - [Making two microservices communicate using RabbitMQ and MassTransit](https://dev.to/angelodotnet/making-two-microservices-communicate-using-rabbitmq-and-masstransit-2g8i)
 - [Custom NET8 Entity Framework Core Generic Repository](https://dev.to/angelodotnet/custom-net8-entity-framework-core-generic-repository-35mn)
 - [Hacktoberfest 2024](https://dev.to/angelodotnet/hacktoberfest-2024-2845)

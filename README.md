@@ -17,6 +17,7 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use HashiCorpVault in a .NET 8 Web Api project](https://dev.to/angelodotnet/how-to-use-hashicorpvault-in-a-net-8-web-api-project-1f1m)
 - [Docker configurations for relational and non-relational databases](https://dev.to/angelodotnet/docker-configurations-for-relational-and-non-relational-databases-ekc)
 - [Microservice communication with RabbitMQ and MassTransit](https://dev.to/angelodotnet/making-two-microservices-communicate-using-rabbitmq-and-masstransit-2g8i)
 - [Custom NET8 Entity Framework Core Generic Repository](https://dev.to/angelodotnet/custom-net8-entity-framework-core-generic-repository-35mn)

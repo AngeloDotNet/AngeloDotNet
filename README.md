@@ -1,5 +1,6 @@
 ## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 
+[![GitHub profile views](https://u8views.com/api/v1/github/profiles/49655304/views/total-count.svg?style=for-the-badge)](https://u8views.com/github/AngeloDotNet)
 [![GitHub followers](https://img.shields.io/github/followers/angelodotnet?label=GitHub%20Followers&style=for-the-badge)](https://github.com/angelodotnet) 
 <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 <!--<a href="https://dev.to/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"></a>-->

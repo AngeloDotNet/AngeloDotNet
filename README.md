@@ -24,9 +24,9 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/AngeloDotNet/GSWCloudApp/pull/46) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. 💪 Opened PR [#46](https://github.com/AngeloDotNet/GSWCloudApp/pull/46) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 🗣 Commented on [#2](https://github.com/BrightSoul/UserManagementUiDemo/pull/2#issuecomment-2510293204) in [BrightSoul/UserManagementUiDemo](https://github.com/BrightSoul/UserManagementUiDemo)
-4. 🗣 Commented on [#3](https://github.com/BrightSoul/UserManagementUiDemo/pull/3#issuecomment-2510292907) in [BrightSoul/UserManagementUiDemo](https://github.com/BrightSoul/UserManagementUiDemo)
-5. 🎉 Merged PR [#45](https://github.com/AngeloDotNet/GSWCloudApp/pull/45) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+1. 🎉 Merged PR [#47](https://github.com/AngeloDotNet/GSWCloudApp/pull/47) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. 💪 Opened PR [#47](https://github.com/AngeloDotNet/GSWCloudApp/pull/47) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 🎉 Merged PR [#46](https://github.com/AngeloDotNet/GSWCloudApp/pull/46) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 💪 Opened PR [#46](https://github.com/AngeloDotNet/GSWCloudApp/pull/46) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. 🗣 Commented on [#2](https://github.com/BrightSoul/UserManagementUiDemo/pull/2#issuecomment-2510293204) in [BrightSoul/UserManagementUiDemo](https://github.com/BrightSoul/UserManagementUiDemo)
 <!--END_SECTION:activity-->

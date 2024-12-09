@@ -24,9 +24,9 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [GSWCloudApp.Common 1.0.41](https://github.com/AngeloDotNet/GSWCloudApp/releases/tag/Common_v1.0.41) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. 🎉 Merged PR [#55](https://github.com/AngeloDotNet/GSWCloudApp/pull/55) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 💪 Opened PR [#55](https://github.com/AngeloDotNet/GSWCloudApp/pull/55) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. 🚀 Published release [GSWCloudApp.Common 1.0.37](https://github.com/AngeloDotNet/GSWCloudApp/releases/tag/Common_v1.0.37) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. 🎉 Merged PR [#54](https://github.com/AngeloDotNet/GSWCloudApp/pull/54) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+1. 🚀 Published release [GSWCloudApp.Common 1.0.42](https://github.com/AngeloDotNet/GSWCloudApp/releases/tag/Common_v1.0.42) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. 🎉 Merged PR [#56](https://github.com/AngeloDotNet/GSWCloudApp/pull/56) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 💪 Opened PR [#56](https://github.com/AngeloDotNet/GSWCloudApp/pull/56) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 🚀 Published release [GSWCloudApp.Common 1.0.41](https://github.com/AngeloDotNet/GSWCloudApp/releases/tag/Common_v1.0.41) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. 🎉 Merged PR [#55](https://github.com/AngeloDotNet/GSWCloudApp/pull/55) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->

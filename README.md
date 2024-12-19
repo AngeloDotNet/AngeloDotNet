@@ -15,11 +15,11 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a simple appointment calendar](https://dev.to/angelodotnet/example-to-create-a-appointment-calendar-477n)
 - [Docker configurations for .NET applications and more](https://dev.to/angelodotnet/docker-configurations-for-net-applications-and-more-1pg8)
 - [How to create a background email sender with outbox pattern integration](https://dev.to/angelodotnet/example-to-create-a-background-email-sender-with-outbox-pattern-integration-4cdl)
 - [How to create a background email sender](https://dev.to/angelodotnet/example-to-create-a-background-email-sender-31i)
 - [How to use HashiCorpVault in a .NET 8 Web Api project](https://dev.to/angelodotnet/how-to-use-hashicorpvault-in-a-net-8-web-api-project-1f1m)
-- [Docker configurations for relational and non-relational databases](https://dev.to/angelodotnet/docker-configurations-for-relational-and-non-relational-databases-ekc)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Recent GitHub Activity

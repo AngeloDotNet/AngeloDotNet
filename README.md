@@ -13,11 +13,11 @@
   <summary>📝 Recent Blog Posts</summary>
 
   <!-- BLOG-POST-LIST:START -->
+- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
 - [How to connect two microservices with RabbitMQ](https://dev.to/angelodotnet/example-of-microservice-communication-with-rabbitmq-3b2f)
 - [How to create a simple appointment calendar](https://dev.to/angelodotnet/example-to-create-a-appointment-calendar-477n)
 - [Docker configurations for .NET applications and more](https://dev.to/angelodotnet/docker-configurations-for-net-applications-and-more-1pg8)
 - [How to create a background email sender with outbox pattern integration](https://dev.to/angelodotnet/example-to-create-a-background-email-sender-with-outbox-pattern-integration-4cdl)
-- [How to create a background email sender](https://dev.to/angelodotnet/example-to-create-a-background-email-sender-31i)
 <!-- BLOG-POST-LIST:END -->
   
 </details>

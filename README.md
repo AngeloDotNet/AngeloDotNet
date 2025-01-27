@@ -26,11 +26,11 @@
   <summary> ⚡ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity/pull/3) in [AngeloDotNet/MinimalApi.AuthJWTIdentity](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity)
-2. 💪 Opened PR [#3](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity/pull/3) in [AngeloDotNet/MinimalApi.AuthJWTIdentity](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity)
-3. 🎉 Merged PR [#2](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity/pull/2) in [AngeloDotNet/MinimalApi.AuthJWTIdentity](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity)
-4. 💪 Opened PR [#2](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity/pull/2) in [AngeloDotNet/MinimalApi.AuthJWTIdentity](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity)
-5. 🎉 Merged PR [#1](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity/pull/1) in [AngeloDotNet/MinimalApi.AuthJWTIdentity](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity)
+1. 🎉 Merged PR [#94](https://github.com/AngeloDotNet/GSWCloudApp/pull/94) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. 💪 Opened PR [#94](https://github.com/AngeloDotNet/GSWCloudApp/pull/94) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 🎉 Merged PR [#93](https://github.com/AngeloDotNet/GSWCloudApp/pull/93) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 💪 Opened PR [#93](https://github.com/AngeloDotNet/GSWCloudApp/pull/93) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. 🎉 Merged PR [#3](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity/pull/3) in [AngeloDotNet/MinimalApi.AuthJWTIdentity](https://github.com/AngeloDotNet/MinimalApi.AuthJWTIdentity)
 <!--END_SECTION:activity-->
 
 </details>

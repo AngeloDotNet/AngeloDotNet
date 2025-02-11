@@ -2,24 +2,19 @@
 
 ### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
+
+### 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<details>
+  <summary>📊 Other statistics</summary>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)
 
----
-
-<details>
-  <summary>📝 Recent Blog Posts</summary>
-
-  <!-- BLOG-POST-LIST:START -->
-- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
-- [How to connect two microservices with RabbitMQ](https://dev.to/angelodotnet/example-of-microservice-communication-with-rabbitmq-3b2f)
-- [How to create a simple appointment calendar](https://dev.to/angelodotnet/example-to-create-a-appointment-calendar-477n)
-- [Docker configurations for .NET applications and more](https://dev.to/angelodotnet/docker-configurations-for-net-applications-and-more-1pg8)
-- [How to create a background email sender with outbox pattern integration](https://dev.to/angelodotnet/example-to-create-a-background-email-sender-with-outbox-pattern-integration-4cdl)
-<!-- BLOG-POST-LIST:END -->
-  
 </details>
 
 <details>

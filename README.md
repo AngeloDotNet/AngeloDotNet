@@ -2,6 +2,10 @@
 
 ### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)-->
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -12,18 +16,7 @@
 - [Docker configurations for .NET applications and more](https://dev.to/angelodotnet/docker-configurations-for-net-applications-and-more-1pg8)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>📊 Other statistics</summary>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)
-
-</details>
-
-<details>
-  <summary> ⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#130](https://github.com/AngeloDotNet/GSWCloudApp/pull/130) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
@@ -32,5 +25,3 @@
 4. 💪 Opened PR [#129](https://github.com/AngeloDotNet/GSWCloudApp/pull/129) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 5. 🎉 Merged PR [#128](https://github.com/AngeloDotNet/GSWCloudApp/pull/128) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
-
-</details>

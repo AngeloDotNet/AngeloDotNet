@@ -9,7 +9,7 @@
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to manage roles, permissions and more, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
+- [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 - [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
 - [How to connect two microservices with RabbitMQ](https://dev.to/angelodotnet/example-of-microservice-communication-with-rabbitmq-3b2f)

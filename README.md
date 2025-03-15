@@ -4,8 +4,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)
 
 ### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->

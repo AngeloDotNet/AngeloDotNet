@@ -2,12 +2,14 @@
 
 ### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)-->
 
-### 📝 Recent Blog Posts
+<details>
+  <summary>📝 Recent Blog Posts</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
@@ -15,8 +17,10 @@
 - [How to connect two microservices with RabbitMQ](https://dev.to/angelodotnet/example-of-microservice-communication-with-rabbitmq-3b2f)
 - [How to create a simple appointment calendar](https://dev.to/angelodotnet/example-to-create-a-appointment-calendar-477n)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
-### ⚡ Recent GitHub Activity
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#35](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity/pull/35) in [AngeloDotNet/Packages.MinimalApi.Identity](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity)
@@ -25,3 +29,4 @@
 4. 💪 Opened PR [#34](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity/pull/34) in [AngeloDotNet/Packages.MinimalApi.Identity](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity)
 5. 🎉 Merged PR [#146](https://github.com/AngeloDotNet/GSWCloudApp/pull/146) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
+</details>

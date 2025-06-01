@@ -23,10 +23,10 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/AngeloDotNet/GSWCloudApp/pull/153) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. 💪 Opened PR [#153](https://github.com/AngeloDotNet/GSWCloudApp/pull/153) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 🎉 Merged PR [#152](https://github.com/AngeloDotNet/GSWCloudApp/pull/152) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. 💪 Opened PR [#152](https://github.com/AngeloDotNet/GSWCloudApp/pull/152) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity/pull/37) in [AngeloDotNet/Packages.MinimalApi.Identity](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity)
+1. 🎉 Merged PR [#154](https://github.com/AngeloDotNet/GSWCloudApp/pull/154) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. 💪 Opened PR [#154](https://github.com/AngeloDotNet/GSWCloudApp/pull/154) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 🎉 Merged PR [#153](https://github.com/AngeloDotNet/GSWCloudApp/pull/153) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 💪 Opened PR [#153](https://github.com/AngeloDotNet/GSWCloudApp/pull/153) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. 🎉 Merged PR [#152](https://github.com/AngeloDotNet/GSWCloudApp/pull/152) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 </details>

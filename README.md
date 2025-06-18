@@ -11,11 +11,11 @@
   <summary>📝 Recent Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Alternative&rpar; How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/alternative-how-to-manage-users-roles-and-claims-using-jwt-token-and-aspnet-core-identity-c0i)
 - [How can dynamically add separate API endpoints](https://dev.to/angelodotnet/how-can-dynamically-add-separate-api-endpoints-4h56)
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
-- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
 <!-- BLOG-POST-LIST:END -->
 </details>
 

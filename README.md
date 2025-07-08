@@ -1,15 +1,16 @@
 ## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=dracula&hide_border=true)
+
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)
-</details>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)
+-->
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -20,14 +21,12 @@
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
 
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#45](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity/pull/45) in [AngeloDotNet/Packages.MinimalApi.Identity](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity)
 2. 💪 Opened PR [#45](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity/pull/45) in [AngeloDotNet/Packages.MinimalApi.Identity](https://github.com/AngeloDotNet/Packages.MinimalApi.Identity)
 3. 🎉 Merged PR [#161](https://github.com/AngeloDotNet/GSWCloudApp/pull/161) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 4. 💪 Opened PR [#161](https://github.com/AngeloDotNet/GSWCloudApp/pull/161) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 5. 🎉 Merged PR [#160](https://github.com/AngeloDotNet/GSWCloudApp/pull/160) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
-</details>

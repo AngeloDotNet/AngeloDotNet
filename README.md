@@ -21,7 +21,8 @@
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Recent GitHub Activity
+<details>
+<summary> ⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/AngeloDotNet/SpikeTime/pull/4) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
@@ -30,3 +31,4 @@
 4. 🎉 Merged PR [#162](https://github.com/AngeloDotNet/GSWCloudApp/pull/162) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 5. 💪 Opened PR [#162](https://github.com/AngeloDotNet/GSWCloudApp/pull/162) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
+</details>

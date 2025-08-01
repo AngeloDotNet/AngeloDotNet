@@ -14,7 +14,7 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/alternative-how-to-manage-users-roles-and-claims-using-jwt-token-and-aspnet-core-identity-c0i)
+- [How to easily integrate and extend authentication in ASP.NET Core projects, using ASP.NET Core Identity](https://dev.to/angelodotnet/how-to-easily-integrate-and-extend-authentication-in-aspnet-core-projects-using-aspnet-core-130p)
 - [How can dynamically add separate API endpoints](https://dev.to/angelodotnet/how-can-dynamically-add-separate-api-endpoints-4h56)
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)

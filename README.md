@@ -25,10 +25,10 @@
 <summary> ⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/13) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. 💪 Opened PR [#13](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/13) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 🎉 Merged PR [#12](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/12) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 💪 Opened PR [#12](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/12) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. 🎉 Merged PR [#11](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/11) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ❗ Opened issue [#31](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/31) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ❗ Opened issue [#30](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/30) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. ❗ Opened issue [#29](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/29) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ❗ Opened issue [#28](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/28) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. ❗ Opened issue [#27](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/27) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>

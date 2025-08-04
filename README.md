@@ -1,16 +1,19 @@
 ## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 
 ### 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=default)
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
+
 ![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=dracula&hide_border=true)
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&utcOffset=8)
 -->
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -21,9 +24,7 @@
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-<summary> ⚡ Recent GitHub Activity</summary>
-
+### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#32](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/32) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 2. 💪 Opened PR [#32](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/32) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
@@ -31,4 +32,3 @@
 4. ❗ Opened issue [#30](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/30) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 5. ❗ Opened issue [#29](https://github.com/AngeloDotNet/MinimalApi.Identity/issues/29) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
-</details>

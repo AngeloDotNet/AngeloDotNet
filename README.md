@@ -1,6 +1,6 @@
-## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+# 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=default)
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=dracula&hide_border=true)
 -->
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
 
-### 📝 Recent Blog Posts  
+## 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [How to easily integrate and extend authentication in ASP.NET Core projects, using ASP.NET Core Identity](https://dev.to/angelodotnet/how-to-easily-integrate-and-extend-authentication-in-aspnet-core-projects-using-aspnet-core-130p)
 - [How can dynamically add separate API endpoints](https://dev.to/angelodotnet/how-can-dynamically-add-separate-api-endpoints-4h56)

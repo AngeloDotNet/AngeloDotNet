@@ -2,9 +2,9 @@
 
 ## 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=default)
-<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
 

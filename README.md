@@ -24,7 +24,7 @@
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#33](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/33) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 2. 💪 Opened PR [#33](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/33) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)

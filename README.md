@@ -2,7 +2,6 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=dracula&hide_border=true)
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />

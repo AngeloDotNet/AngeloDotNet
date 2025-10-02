@@ -34,9 +34,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/120) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. 🗣 Commented on [#6810](https://github.com/dotnetcore/BootstrapBlazor/pull/6810#issuecomment-3355997555) in [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)
-3. 🎉 Merged PR [#118](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/118) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 🎉 Merged PR [#117](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/117) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. 💪 Opened PR [#118](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/118) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. 🎉 Merged PR [#120](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/120) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. 💪 Opened PR [#13](https://github.com/NetDevForLife/SampleAPI.ComuniItaliani/pull/13) in [NetDevForLife/SampleAPI.ComuniItaliani](https://github.com/NetDevForLife/SampleAPI.ComuniItaliani)
+3. 💪 Opened PR [#120](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/120) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. 🗣 Commented on [#6810](https://github.com/dotnetcore/BootstrapBlazor/pull/6810#issuecomment-3355997555) in [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)
+5. 🎉 Merged PR [#118](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/118) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->

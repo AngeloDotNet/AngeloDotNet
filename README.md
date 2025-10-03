@@ -18,10 +18,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
--->
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
+-->
 
 ## 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->

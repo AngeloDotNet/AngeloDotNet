@@ -34,9 +34,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/NetDevForLife/API-UploadFiles/pull/12) in [NetDevForLife/API-UploadFiles](https://github.com/NetDevForLife/API-UploadFiles)
-2. 💪 Opened PR [#11](https://github.com/NetDevForLife/AspNetCore.Upload/pull/11) in [NetDevForLife/AspNetCore.Upload](https://github.com/NetDevForLife/AspNetCore.Upload)
-3. 💪 Opened PR [#6](https://github.com/NetDevForLife/RazorPaging-AdoNet/pull/6) in [NetDevForLife/RazorPaging-AdoNet](https://github.com/NetDevForLife/RazorPaging-AdoNet)
-4. 💪 Opened PR [#11](https://github.com/NetDevForLife/BackgroundEmailSender.EFCore/pull/11) in [NetDevForLife/BackgroundEmailSender.EFCore](https://github.com/NetDevForLife/BackgroundEmailSender.EFCore)
-5. 💪 Opened PR [#15](https://github.com/NetDevForLife/SampleAPI.ComuniItaliani/pull/15) in [NetDevForLife/SampleAPI.ComuniItaliani](https://github.com/NetDevForLife/SampleAPI.ComuniItaliani)
+1. 🎉 Merged PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. 💪 Opened PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 💪 Opened PR [#12](https://github.com/NetDevForLife/API-UploadFiles/pull/12) in [NetDevForLife/API-UploadFiles](https://github.com/NetDevForLife/API-UploadFiles)
+4. 💪 Opened PR [#11](https://github.com/NetDevForLife/AspNetCore.Upload/pull/11) in [NetDevForLife/AspNetCore.Upload](https://github.com/NetDevForLife/AspNetCore.Upload)
+5. 💪 Opened PR [#6](https://github.com/NetDevForLife/RazorPaging-AdoNet/pull/6) in [NetDevForLife/RazorPaging-AdoNet](https://github.com/NetDevForLife/RazorPaging-AdoNet)
 <!--END_SECTION:activity-->

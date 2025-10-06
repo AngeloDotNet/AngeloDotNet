@@ -28,6 +28,7 @@
 
 <details>
   <summary>📝 Recent Blog Posts</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [How to easily integrate and extend authentication in ASP.NET Core projects, using ASP.NET Core Identity](https://dev.to/angelodotnet/how-to-easily-integrate-and-extend-authentication-in-aspnet-core-projects-using-aspnet-core-130p)
 - [How can dynamically add separate API endpoints](https://dev.to/angelodotnet/how-can-dynamically-add-separate-api-endpoints-4h56)
@@ -35,10 +36,12 @@
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 - [How to use SignalR in a Blazor WebAssembly and Web API project](https://dev.to/angelodotnet/how-to-use-signalr-in-a-blazor-webassembly-and-web-api-project-27cp)
 <!-- BLOG-POST-LIST:END -->
+
 </details>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#124](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/124) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 2. 🎉 Merged PR [#125](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/125) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
@@ -46,4 +49,5 @@
 4. 🎉 Merged PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 5. 💪 Opened PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
+
 </details>

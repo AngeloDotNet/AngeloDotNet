@@ -34,9 +34,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/125) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. 🎉 Merged PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 💪 Opened PR [#12](https://github.com/NetDevForLife/API-UploadFiles/pull/12) in [NetDevForLife/API-UploadFiles](https://github.com/NetDevForLife/API-UploadFiles)
-5. 💪 Opened PR [#11](https://github.com/NetDevForLife/AspNetCore.Upload/pull/11) in [NetDevForLife/AspNetCore.Upload](https://github.com/NetDevForLife/AspNetCore.Upload)
+1. 🎉 Merged PR [#124](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/124) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. 🎉 Merged PR [#125](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/125) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 💪 Opened PR [#125](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/125) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. 🎉 Merged PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 💪 Opened PR [#123](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/123) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->

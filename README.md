@@ -43,11 +43,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-2. 💪 Opened PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-3. ❌ Assigned PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-4. ❌ Labeled PR [#2](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-5. 💪 Opened PR [#2](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. ❌ Labeled PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
+2. 💪 Opened PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
+3. ❌ Assigned PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
+4. ❌ Labeled PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. 💪 Opened PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 <!--END_SECTION:activity-->
 
 </details>

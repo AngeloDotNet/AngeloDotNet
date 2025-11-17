@@ -43,11 +43,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
-2. 💪 Opened PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
-3. ❌ Assigned PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
-4. ❌ Labeled PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-5. 💪 Opened PR [#3](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. ❌ Labeled PR [#167](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. 💪 Opened PR [#167](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. ❌ Assigned PR [#167](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ❌ Labeled PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
+5. 💪 Opened PR [#1](undefined) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
 <!--END_SECTION:activity-->
 
 </details>

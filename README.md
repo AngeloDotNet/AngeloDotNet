@@ -1,16 +1,18 @@
 ## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 
+<!--
 ### 🖥️ HacktoberFest Badges
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
+-->
 
 ### 📊 GitHub Stats
 
 ![angelodotnet's Stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![angelodotnet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<!--
 ![angelodotnet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=vue-dark&hide_border=true)
 
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
@@ -19,15 +21,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
--->
 
 <details>
   <summary>🏆 GitHub Trophies</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </details>
+-->
 
-<details>
-  <summary>📝 Recent Blog Posts</summary>
+### 📝 Recent Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
@@ -36,8 +37,6 @@
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
-
-</details>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>

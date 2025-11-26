@@ -7,14 +7,6 @@
 
 ### 📊 GitHub Stats
 
-![angelodotnet's Stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![angelodotnet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<!--
-![angelodotnet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=vue-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=default)
@@ -22,6 +14,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
 
+<!--
+![angelodotnet's Stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![angelodotnet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![angelodotnet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=vue-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+-->
+
+<!--
 <details>
   <summary>🏆 GitHub Trophies</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
@@ -38,8 +40,7 @@
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. ❌ Labeled PR [#179](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
@@ -48,5 +49,3 @@
 4. ❌ Labeled PR [#178](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 5. 💪 Opened PR [#178](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
-
-</details>

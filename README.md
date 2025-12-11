@@ -45,9 +45,9 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
-2. 💪 Opened PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
-3. ❌ Assigned PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
-4. ❌ Merged PR [#197](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ❌ Labeled PR [#198](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ❌ Merged PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
+2. ❌ Labeled PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
+3. 💪 Opened PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
+4. ❌ Assigned PR [#2](undefined) in [AngeloDotNet/HeadlessCms.NET](https://github.com/AngeloDotNet/HeadlessCms.NET)
+5. ❌ Merged PR [#197](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->

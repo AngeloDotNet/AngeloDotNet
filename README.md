@@ -42,9 +42,9 @@
 ### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#218](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ❌ Labeled PR [#218](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#218](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ❌ Assigned PR [#218](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ❌ Merged PR [#4](undefined) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. ❌ Labeled PR [#220](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ❌ Assigned PR [#220](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. ❌ Merged PR [#219](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ❌ Labeled PR [#219](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 💪 Opened PR [#219](undefined) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->

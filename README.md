@@ -1,14 +1,13 @@
 ## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 
-<!--
 ### 🖥️ HacktoberFest Badges
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
--->
 
-### 📊 GitHub Stats
 <!--
+### 📊 GitHub Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
--->
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=default)
@@ -16,7 +15,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
 
-<!--
 ![angelodotnet's Stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![angelodotnet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![angelodotnet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=vue-dark&hide_border=true)

@@ -1,4 +1,7 @@
-## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+## 👋 Hey there, I'm Angelo and I work as a Software Engineer Consultant ! 
+
+![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+<a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 
 <!--
 ### 🖥️ HacktoberFest Badges
@@ -19,9 +22,7 @@
 ![angelodotnet's Stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![angelodotnet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![angelodotnet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=vue-dark&hide_border=true)
--->
 
-<!--
 <details>
   <summary>🏆 GitHub Trophies</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
@@ -38,7 +39,8 @@
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Recent GitHub Activity
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#245](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/245) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
@@ -47,3 +49,4 @@
 4. ℹ️ Labeled PR [#244](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/244) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 5. ℹ️ Assigned PR [#244](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/244) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
+</details>

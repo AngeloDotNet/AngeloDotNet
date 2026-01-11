@@ -2,9 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/angelodotnet?label=GitHub%20Followers&style=for-the-badge)](https://github.com/angelodotnet)
 [![Twitter Follow](https://img.shields.io/twitter/follow/angeloIT87?style=for-the-badge&logo=X&Color=1DA1F2)](https://twitter.com/intent/follow?screen_name=angeloit87)
-[![Twitch](https://img.shields.io/twitch/status/angeloit87?style=for-the-badge)](https://www.twitch.tv/angeloit87)
 ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 <a href="https://www.buymeacoffee.com/angelodotnet" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+<!--[![Twitch](https://img.shields.io/twitch/status/angeloit87?style=for-the-badge)](https://www.twitch.tv/angeloit87)-->
 
 ## I'm work as a Software Engineer Consultant
 

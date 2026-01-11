@@ -15,7 +15,7 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
 -->
 
-### Languages and Tools:
+### 👨🏻‍💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -33,24 +33,24 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 
 ### 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=default)
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=AngeloDotNet&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
 
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=default&utcOffset=2)
-
-![angelodotnet's Stats](https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![angelodotnet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelodotnet&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![angelodotnet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelodotnet&theme=vue-dark&hide_border=true)
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
 <details>
   <summary>🏆 GitHub Trophies</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=AngeloDotNet&no-frame=false&no-bg=false&margin-w=4&row=1" />
+
+  
+  [![trophy](https://github-trophies.vercel.app/?username=angelodotnet)](https://github.com/angelodotnet/github-trophies)
 </details>
--->
 
 <details>
   <summary>📝 Recent Blog Posts</summary>

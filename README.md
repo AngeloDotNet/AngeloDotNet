@@ -63,6 +63,6 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 2. ℹ️ Assigned PR [#245](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/245) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 3. 🎉 Merged PR [#244](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/244) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 4. ℹ️ Labeled PR [#244](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/244) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Assigned PR [#244](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/244) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 💪 Opened PR [#244](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/244) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>

@@ -57,10 +57,10 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#254](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/254) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. 💪 Opened PR [#254](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/254) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. ℹ️ Assigned PR [#254](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/254) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 🔒 Closed issue [#1](https://github.com/AngeloDotNet/UploadFileCustomExtensions/issues/1) in [AngeloDotNet/UploadFileCustomExtensions](https://github.com/AngeloDotNet/UploadFileCustomExtensions)
-5. ℹ️ Labeled issue [#1](https://github.com/AngeloDotNet/UploadFileCustomExtensions/issues/1) in [AngeloDotNet/UploadFileCustomExtensions](https://github.com/AngeloDotNet/UploadFileCustomExtensions)
+1. ℹ️ Labeled PR [#255](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/255) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ℹ️ Assigned PR [#255](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/255) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 🎉 Merged PR [#254](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/254) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ℹ️ Labeled PR [#254](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/254) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 💪 Opened PR [#254](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/254) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>

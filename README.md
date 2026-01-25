@@ -8,21 +8,8 @@
 
 I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3). 
 
-### 📊 GitHub Stats
-<!--
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=AngeloDotNet&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
-</p>
--->
-
-[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 ### 👨🏻‍💻 Languages and Tools:
+
 <img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt=".NET Core" width="30px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
@@ -34,15 +21,28 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <!--<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />-->
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br /><br />
 
-<br /><br /><br />
+### 📊 GitHub Stats
+<!--
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=AngeloDotNet&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
+-->
+
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
 
 ### 🏆 GitHub Trophies
+
 [![trophy](https://github-trophies.vercel.app/?username=angelodotnet)](https://github.com/angelodotnet/github-trophies)
 
-<details>
-  <summary>📝 Recent Blog Posts</summary>
+### 📝 Recent Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
@@ -51,10 +51,8 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#259](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/259) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
@@ -63,4 +61,3 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 4. ℹ️ Labeled PR [#6](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/6) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 5. 💪 Opened PR [#6](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/6) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 <!--END_SECTION:activity-->
-</details>

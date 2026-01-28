@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Angelo !
+## 👋 Hey there, I'm Angelo !
 
 ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 [![GitHub followers](https://img.shields.io/github/followers/angelodotnet?label=GitHub%20Followers&style=for-the-badge)](https://github.com/angelodotnet)
@@ -8,7 +8,7 @@
 
 I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3). 
 
-### 👨🏻‍💻 Languages and Tools:
+## 👨🏻‍💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -23,7 +23,7 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><br /><br />
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <!--
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=AngeloDotNet&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
@@ -42,7 +42,7 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 [![trophy](https://github-trophies.vercel.app/?username=angelodotnet)](https://github.com/angelodotnet/github-trophies)
 -->
 
-### 📝 Recent Blog Posts
+## 📝 Recent Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
@@ -52,7 +52,7 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#262](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/262) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)

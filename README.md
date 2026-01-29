@@ -55,9 +55,9 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#262](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/262) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ℹ️ Labeled PR [#262](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/262) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#262](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/262) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ℹ️ Assigned PR [#262](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/262) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/1) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. 🎉 Merged PR [#263](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/263) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ℹ️ Labeled PR [#263](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/263) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 💪 Opened PR [#263](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/263) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ℹ️ Assigned PR [#263](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/263) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 🎉 Merged PR [#262](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/262) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->

@@ -56,8 +56,8 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
   
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#9](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/9) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-2. ❗ Opened issue [#9](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/9) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. 🎉 Merged PR [#264](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/264) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ℹ️ Labeled PR [#264](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/264) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. 💪 Opened PR [#264](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/264) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ℹ️ Unlabeled issue [#9](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/9) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ℹ️ Labeled issue [#9](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/9) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. ℹ️ Labeled issue [#10](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/10) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+5. ℹ️ Labeled issue [#10](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/10) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->

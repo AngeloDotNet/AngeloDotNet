@@ -55,9 +55,9 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-2. 🗣 Commented on [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8#issuecomment-3826525921) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. ℹ️ Labeled issue [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. 🗣 Commented on [#9](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/9#issuecomment-3826518427) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-5. 🔒 Closed issue [#9](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/9) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. ℹ️ Assigned issue [#11](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/11) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+2. ℹ️ Assigned issue [#10](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/10) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. 🔒 Closed issue [#10](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/10) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. 🔒 Closed issue [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+5. 🗣 Commented on [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8#issuecomment-3826525921) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->

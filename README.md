@@ -55,9 +55,9 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#11](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/11) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-2. ℹ️ Assigned issue [#10](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/10) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. 🔒 Closed issue [#10](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/10) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. 🔒 Closed issue [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-5. 🗣 Commented on [#8](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/8#issuecomment-3826525921) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. ℹ️ Labeled issue [#13](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/13) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+2. ℹ️ Labeled issue [#14](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/14) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ❗ Opened issue [#14](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/14) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. ❗ Opened issue [#13](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/13) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+5. 🎉 Merged PR [#266](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/266) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->

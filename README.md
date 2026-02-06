@@ -55,9 +55,9 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/AdminArea.IdentityBase/pull/2) in [AngeloDotNet/AdminArea.IdentityBase](https://github.com/AngeloDotNet/AdminArea.IdentityBase)
-2. 🎉 Merged PR [#269](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/269) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. ℹ️ Labeled PR [#269](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/269) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 💪 Opened PR [#269](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/269) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Assigned PR [#269](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/269) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. 🔒 Closed issue [#12](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/12) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+2. 🗣 Commented on [#12](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/12#issuecomment-3856973022) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ℹ️ Assigned issue [#12](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/12) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. 🔒 Closed issue [#13](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/13) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+5. 🗣 Commented on [#13](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/13#issuecomment-3856933024) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->

@@ -109,11 +109,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. ℹ️ Labeled PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 💪 Opened PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. ℹ️ Assigned PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. 🔒 Closed issue [#12](https://github.com/AngeloDotNet/TinyDatabaseLocalization/issues/12) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. ℹ️ Assigned PR [#270](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/270) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. 🎉 Merged PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. ℹ️ Labeled PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. 💪 Opened PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. ℹ️ Assigned PR [#171](https://github.com/AngeloDotNet/GSWCloudApp/pull/171) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 
 <p align="center">🚨 Last updated: February 2026</p>

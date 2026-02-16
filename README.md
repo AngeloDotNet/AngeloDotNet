@@ -109,11 +109,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. 💪 Opened PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. ℹ️ Assigned PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET-GenericRepositorySoftDelete/pull/1) in [AngeloDotNet/NET-GenericRepositorySoftDelete](https://github.com/AngeloDotNet/NET-GenericRepositorySoftDelete)
-5. 🎉 Merged PR [#13](https://github.com/NetDevForLife/AspNetCore.Upload/pull/13) in [NetDevForLife/AspNetCore.Upload](https://github.com/NetDevForLife/AspNetCore.Upload)
+1. 🎉 Merged PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+2. ℹ️ Labeled PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+3. 💪 Opened PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+4. ℹ️ Assigned PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+5. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET-GenericRepositorySoftDelete/pull/1) in [AngeloDotNet/NET-GenericRepositorySoftDelete](https://github.com/AngeloDotNet/NET-GenericRepositorySoftDelete)
 <!--END_SECTION:activity-->
 
 <p align="center">🚨 Last updated: February 2026</p>

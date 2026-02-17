@@ -109,11 +109,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. ℹ️ Labeled PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 💪 Opened PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. ℹ️ Assigned PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET-GenericRepositorySoftDelete/pull/1) in [AngeloDotNet/NET-GenericRepositorySoftDelete](https://github.com/AngeloDotNet/NET-GenericRepositorySoftDelete)
+1. 🎉 Merged PR [#8](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/8) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+2. ℹ️ Labeled PR [#8](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/8) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+3. 💪 Opened PR [#8](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/8) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+4. ℹ️ Assigned PR [#8](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/8) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. 🎉 Merged PR [#172](https://github.com/AngeloDotNet/GSWCloudApp/pull/172) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 
 <p align="center">🚨 Last updated: February 2026</p>

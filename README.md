@@ -110,7 +110,8 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 [![trophy](https://github-trophies.vercel.app/?username=angelodotnet)](https://github.com/angelodotnet/github-trophies)
 -->
 
-## 📝 Recent Blog Posts
+<details>
+<summary>📝 Recent Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
@@ -119,8 +120,10 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
-## ⚡ Recent GitHub Activity
+<details>
+<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
@@ -129,5 +132,6 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 4. 💪 Opened PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 5. ℹ️ Assigned PR [#11](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/11) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 <!--END_SECTION:activity-->
-
+</details>
 <p align="center">🚨 Last updated: February 2026</p>
+

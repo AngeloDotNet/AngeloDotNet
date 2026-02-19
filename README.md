@@ -111,11 +111,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ℹ️ Labeled PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. ℹ️ Assigned PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 💪 Opened PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Assigned PR [#11](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/11) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. ℹ️ Labeled PR [#276](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/276) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ℹ️ Assigned PR [#276](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/276) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 🎉 Merged PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ℹ️ Labeled PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. ℹ️ Assigned PR [#275](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/275) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>
 <p align="center">🚨 Last updated: February 2026</p>

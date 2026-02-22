@@ -75,11 +75,13 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
   <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Stats</summary>
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=AngeloDotNet&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
+</details>
 
 <!--
 [![](https://raw.githubusercontent.com/AngeloDotNet/AngeloDotNet/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

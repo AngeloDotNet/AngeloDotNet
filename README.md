@@ -21,7 +21,7 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## ☁ Cloud and database
+## ☁ Cloud and Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />

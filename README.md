@@ -113,11 +113,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#174](https://github.com/AngeloDotNet/GSWCloudApp/pull/174) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-2. ℹ️ Labeled PR [#174](https://github.com/AngeloDotNet/GSWCloudApp/pull/174) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-3. 💪 Opened PR [#174](https://github.com/AngeloDotNet/GSWCloudApp/pull/174) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-4. ℹ️ Assigned PR [#174](https://github.com/AngeloDotNet/GSWCloudApp/pull/174) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. 🎉 Merged PR [#173](https://github.com/AngeloDotNet/GSWCloudApp/pull/173) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+1. 🎉 Merged PR [#277](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/277) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ℹ️ Labeled PR [#277](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/277) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 💪 Opened PR [#277](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/277) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ℹ️ Assigned PR [#277](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/277) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 🎉 Merged PR [#174](https://github.com/AngeloDotNet/GSWCloudApp/pull/174) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 </details>
 <p align="center">🚨 Last updated: February 2026</p>

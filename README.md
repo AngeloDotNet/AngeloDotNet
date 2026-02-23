@@ -113,11 +113,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-2. 💪 Opened PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-3. ℹ️ Assigned PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-4. 🎉 Merged PR [#175](https://github.com/AngeloDotNet/GSWCloudApp/pull/175) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
-5. ℹ️ Labeled PR [#175](https://github.com/AngeloDotNet/GSWCloudApp/pull/175) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
+1. 🎉 Merged PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+2. ℹ️ Labeled PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+3. 💪 Opened PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+4. ℹ️ Assigned PR [#12](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/12) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. 🎉 Merged PR [#175](https://github.com/AngeloDotNet/GSWCloudApp/pull/175) in [AngeloDotNet/GSWCloudApp](https://github.com/AngeloDotNet/GSWCloudApp)
 <!--END_SECTION:activity-->
 </details>
 <p align="center">🚨 Last updated: February 2026</p>

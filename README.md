@@ -97,5 +97,5 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 5. 🎉 Merged PR [#280](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/280) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>
-<p align="center">🚨 Last updated: February 2026</p>
 
+<p align="center">🚨 Last updated: March 2026</p>

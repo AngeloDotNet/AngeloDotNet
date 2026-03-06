@@ -1,8 +1,8 @@
 ## 👋 Hey there, I'm Angelo ! 💻
 
 ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
-[![GitHub stars](https://img.shields.io/github/stars/angelodotnet?style=for-the-badge)](https://github.com/angelodotnet)
 [![Twitter Follow](https://img.shields.io/twitter/follow/angeloIT87?style=for-the-badge&logo=X&Color=1DA1F2)](https://twitter.com/intent/follow?screen_name=angeloit87)
+<!--[![GitHub stars](https://img.shields.io/github/stars/angelodotnet?style=for-the-badge)](https://github.com/angelodotnet)-->
 
 ## I'm a .NET Software Engineer
 

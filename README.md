@@ -85,11 +85,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/291) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ℹ️ Labeled PR [#291](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/291) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#291](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/291) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ℹ️ Assigned PR [#291](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/291) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. 🎉 Merged PR [#290](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/290) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ℹ️ Labeled PR [#18](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/18) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+2. ℹ️ Labeled PR [#17](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/17) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+3. ℹ️ Labeled PR [#16](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/16) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+4. ℹ️ Assigned PR [#18](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/18) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. ℹ️ Assigned PR [#17](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/17) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 <!--END_SECTION:activity-->
 </details>
 

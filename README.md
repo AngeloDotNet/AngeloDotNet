@@ -85,11 +85,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#292](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/292) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ℹ️ Labeled PR [#292](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/292) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#292](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/292) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ℹ️ Assigned PR [#292](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/292) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Labeled PR [#18](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/18) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. 🗣 Commented on [#1](https://github.com/AngeloDotNet/CloudBudget/pull/1#issuecomment-4062651042) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+2. ❌ Closed PR [#1](https://github.com/AngeloDotNet/CloudBudget/pull/1) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+3. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/CloudBudget/pull/1) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+4. 🎉 Merged PR [#293](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/293) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. ℹ️ Labeled PR [#294](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/294) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>
 

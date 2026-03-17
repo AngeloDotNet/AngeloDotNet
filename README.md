@@ -85,11 +85,11 @@ I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3)
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#295](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/295) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ℹ️ Labeled PR [#295](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/295) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#295](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/295) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ℹ️ Assigned PR [#295](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/295) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ❌ Closed PR [#1](https://github.com/AngeloDotNet/MyCRM/pull/1) in [AngeloDotNet/MyCRM](https://github.com/AngeloDotNet/MyCRM)
+1. 🎉 Merged PR [#296](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/296) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. 🗣 Commented on [#2](https://github.com/AngeloDotNet/CloudBudget/pull/2#issuecomment-4073015066) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+3. ❌ Closed PR [#2](https://github.com/AngeloDotNet/CloudBudget/pull/2) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+4. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/CloudBudget/pull/2) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+5. ℹ️ Labeled PR [#296](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/296) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>
 

@@ -4,7 +4,7 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 
 ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/angeloIT87?style=for-the-badge&logo=X&Color=1DA1F2)](https://twitter.com/intent/follow?screen_name=angeloit87)
-<!--[![GitHub stars](https://img.shields.io/github/stars/angelodotnet?style=for-the-badge)](https://github.com/angelodotnet)-->
+[![GitHub stars](https://img.shields.io/github/stars/angelodotnet?style=for-the-badge)](https://github.com/angelodotnet)
 
 ## 🔧 Skills
 
@@ -90,5 +90,3 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 5. 🎉 Merged PR [#311](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/311) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>
-
-<p align="center">🚨 Last updated: March 2026</p>

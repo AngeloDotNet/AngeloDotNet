@@ -1,12 +1,10 @@
-## 👋 Hey there, I'm Angelo ! 💻
+# 👋 Hey there, I'm Angelo ! 💻
+
+I'm a .NET Software Engineer, I have been using this technology since 2018 starting with the .NET Core 2 version (C# 7.3) and I am passionate about technologies and everything related to IT and the cloud.
 
 ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/angeloIT87?style=for-the-badge&logo=X&Color=1DA1F2)](https://twitter.com/intent/follow?screen_name=angeloit87)
 <!--[![GitHub stars](https://img.shields.io/github/stars/angelodotnet?style=for-the-badge)](https://github.com/angelodotnet)-->
-
-## I'm a .NET Software Engineer
-
-I have been using .NET since 2018 starting with the .NET Core 2 version (C# 7.3). 
 
 ## 🔧 Skills
 

@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/CloudBudget/pull/3) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
-2. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/BackgroundEmailSender/pull/2) in [AngeloDotNet/BackgroundEmailSender](https://github.com/AngeloDotNet/BackgroundEmailSender)
-3. ℹ️ Assigned PR [#30](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/30) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. 🎉 Merged PR [#318](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/318) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Labeled PR [#318](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/318) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET8-BackgroundEmailSender/pull/1) in [AngeloDotNet/NET8-BackgroundEmailSender](https://github.com/AngeloDotNet/NET8-BackgroundEmailSender)
+2. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/AdminArea.IdentityBase/pull/3) in [AngeloDotNet/AdminArea.IdentityBase](https://github.com/AngeloDotNet/AdminArea.IdentityBase)
+3. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/CloudBudget/pull/3) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
+4. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/BackgroundEmailSender/pull/2) in [AngeloDotNet/BackgroundEmailSender](https://github.com/AngeloDotNet/BackgroundEmailSender)
+5. ℹ️ Assigned PR [#30](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/30) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->
 </details>

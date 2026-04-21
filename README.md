@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET8-BackgroundEmailSender/pull/1) in [AngeloDotNet/NET8-BackgroundEmailSender](https://github.com/AngeloDotNet/NET8-BackgroundEmailSender)
-2. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/AdminArea.IdentityBase/pull/3) in [AngeloDotNet/AdminArea.IdentityBase](https://github.com/AngeloDotNet/AdminArea.IdentityBase)
-3. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/CloudBudget/pull/3) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
-4. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/BackgroundEmailSender/pull/2) in [AngeloDotNet/BackgroundEmailSender](https://github.com/AngeloDotNet/BackgroundEmailSender)
-5. ℹ️ Assigned PR [#30](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/30) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/MailKitToolLibrary/pull/1) in [AngeloDotNet/MailKitToolLibrary](https://github.com/AngeloDotNet/MailKitToolLibrary)
+2. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/MailKit.Custom/pull/2) in [AngeloDotNet/MailKit.Custom](https://github.com/AngeloDotNet/MailKit.Custom)
+3. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET8-BackgroundEmailSender/pull/1) in [AngeloDotNet/NET8-BackgroundEmailSender](https://github.com/AngeloDotNet/NET8-BackgroundEmailSender)
+4. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/AdminArea.IdentityBase/pull/3) in [AngeloDotNet/AdminArea.IdentityBase](https://github.com/AngeloDotNet/AdminArea.IdentityBase)
+5. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/CloudBudget/pull/3) in [AngeloDotNet/CloudBudget](https://github.com/AngeloDotNet/CloudBudget)
 <!--END_SECTION:activity-->
 </details>

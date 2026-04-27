@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#319](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/319) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. 🎉 Merged PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. ℹ️ Labeled PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. 💪 Opened PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Assigned PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. 🚀 Published release [dotnet-6.x](https://github.com/AngeloFreeTemplates/RepositoryNET.Docker/releases/tag/v6.x) in [AngeloFreeTemplates/RepositoryNET.Docker](https://github.com/AngeloFreeTemplates/RepositoryNET.Docker)
+2. ❌ Closed PR [#319](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/319) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 🎉 Merged PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ℹ️ Labeled PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. 💪 Opened PR [#322](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/322) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>

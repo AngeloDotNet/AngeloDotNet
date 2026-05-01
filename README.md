@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/UGIdotNET/SpikeTime/pull/3) in [UGIdotNET/SpikeTime](https://github.com/UGIdotNET/SpikeTime)
-2. ℹ️ Assigned PR [#9](https://github.com/AngeloDotNet/SpikeTime/pull/9) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
-3. 🎉 Merged PR [#128](https://github.com/albx/KITT/pull/128) in [albx/KITT](https://github.com/albx/KITT)
-4. 🚀 Published release [dotnet-6.x](https://github.com/AngeloFreeTemplates/RepositoryNET.Docker/releases/tag/v6.x) in [AngeloFreeTemplates/RepositoryNET.Docker](https://github.com/AngeloFreeTemplates/RepositoryNET.Docker)
-5. ❌ Closed PR [#319](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/319) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ℹ️ Assigned PR [#10](https://github.com/AngeloDotNet/SpikeTime/pull/10) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
+2. ℹ️ Assigned PR [#11](https://github.com/AngeloDotNet/SpikeTime/pull/11) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
+3. 💪 Opened PR [#3](https://github.com/UGIdotNET/SpikeTime/pull/3) in [UGIdotNET/SpikeTime](https://github.com/UGIdotNET/SpikeTime)
+4. ℹ️ Assigned PR [#9](https://github.com/AngeloDotNet/SpikeTime/pull/9) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
+5. 🎉 Merged PR [#128](https://github.com/albx/KITT/pull/128) in [albx/KITT](https://github.com/albx/KITT)
 <!--END_SECTION:activity-->
 </details>

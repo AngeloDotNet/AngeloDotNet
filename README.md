@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#12](https://github.com/AngeloDotNet/SpikeTime/pull/12) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
-2. ℹ️ Labeled issue [#522](https://github.com/dotnet-foundation/projects/issues/522) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
-3. ❗ Opened issue [#522](https://github.com/dotnet-foundation/projects/issues/522) in [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects)
-4. ℹ️ Assigned PR [#10](https://github.com/AngeloDotNet/SpikeTime/pull/10) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
-5. ℹ️ Assigned PR [#11](https://github.com/AngeloDotNet/SpikeTime/pull/11) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
+1. ℹ️ Assigned PR [#13](https://github.com/AngeloDotNet/SpikeTime/pull/13) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
+2. 🎉 Merged PR [#323](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/323) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. ℹ️ Labeled PR [#323](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/323) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. 💪 Opened PR [#323](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/323) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. ℹ️ Assigned PR [#323](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/323) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>

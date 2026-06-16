@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#43](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/43) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-2. ℹ️ Assigned PR [#44](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/44) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. ℹ️ Assigned PR [#45](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/45) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. ℹ️ Assigned PR [#46](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/46) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-5. ℹ️ Assigned PR [#47](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/47) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. 🎉 Merged PR [#339](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/339) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+2. ℹ️ Labeled PR [#339](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/339) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+3. 💪 Opened PR [#339](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/339) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+4. ℹ️ Assigned PR [#339](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/339) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. ℹ️ Assigned PR [#43](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/43) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->
 </details>

@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-2. ℹ️ Labeled PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-3. 💪 Opened PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-4. ℹ️ Assigned PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. 🎉 Merged PR [#346](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/346) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ℹ️ Assigned PR [#50](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/50) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+2. ℹ️ Assigned PR [#51](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/51) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ℹ️ Assigned PR [#53](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/53) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. 🎉 Merged PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+5. ℹ️ Labeled PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
 <!--END_SECTION:activity-->
 </details>

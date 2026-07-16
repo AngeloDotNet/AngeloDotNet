@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#50](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/50) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-2. ℹ️ Assigned PR [#51](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/51) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. ℹ️ Assigned PR [#53](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/53) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. 🎉 Merged PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
-5. ℹ️ Labeled PR [#347](https://github.com/AngeloDotNet/MinimalApi.Identity/pull/347) in [AngeloDotNet/MinimalApi.Identity](https://github.com/AngeloDotNet/MinimalApi.Identity)
+1. ❌ Closed PR [#59](https://github.com/AngeloDotNet/AppEngine/pull/59) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+2. ℹ️ Assigned PR [#59](https://github.com/AngeloDotNet/AppEngine/pull/59) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+3. ❌ Closed PR [#57](https://github.com/AngeloDotNet/AppEngine/pull/57) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+4. ❌ Closed PR [#58](https://github.com/AngeloDotNet/AppEngine/pull/58) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+5. ℹ️ Assigned PR [#50](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/50) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->
 </details>

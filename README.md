@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/AngeloDotNet/AppEngine/pull/59) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-2. ℹ️ Assigned PR [#59](https://github.com/AngeloDotNet/AppEngine/pull/59) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-3. ❌ Closed PR [#57](https://github.com/AngeloDotNet/AppEngine/pull/57) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-4. ❌ Closed PR [#58](https://github.com/AngeloDotNet/AppEngine/pull/58) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-5. ℹ️ Assigned PR [#50](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/50) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/MyCRM/pull/2) in [AngeloDotNet/MyCRM](https://github.com/AngeloDotNet/MyCRM)
+2. ℹ️ Assigned PR [#60](https://github.com/AngeloDotNet/AppEngine/pull/60) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+3. ❌ Closed PR [#59](https://github.com/AngeloDotNet/AppEngine/pull/59) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+4. ℹ️ Assigned PR [#59](https://github.com/AngeloDotNet/AppEngine/pull/59) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+5. ❌ Closed PR [#57](https://github.com/AngeloDotNet/AppEngine/pull/57) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
 <!--END_SECTION:activity-->
 </details>

@@ -82,10 +82,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#16](https://github.com/AngeloDotNet/SpikeTime/pull/16) in [AngeloDotNet/SpikeTime](https://github.com/AngeloDotNet/SpikeTime)
-2. ℹ️ Assigned PR [#22](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/22) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-3. ℹ️ Assigned PR [#69](https://github.com/AngeloDotNet/AppEngine/pull/69) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-4. ℹ️ Assigned PR [#62](https://github.com/AngeloDotNet/AppEngine/pull/62) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-5. ℹ️ Assigned PR [#64](https://github.com/AngeloDotNet/AppEngine/pull/64) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+1. ℹ️ Assigned PR [#44](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/44) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+2. ℹ️ Assigned PR [#43](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/43) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+3. ℹ️ Assigned PR [#42](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/42) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+4. ℹ️ Assigned PR [#41](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/41) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. ℹ️ Assigned PR [#40](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/40) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 <!--END_SECTION:activity-->
 </details>

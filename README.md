@@ -62,8 +62,10 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=dracula&animation=sequence&name=Angelo+Pirola)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula&animation=sequence)
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&animation=sequence&utcOffset=0)
+-->
 
 ### 🏆 GitHub Trophies
 

@@ -85,9 +85,9 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/AngeloDotNet/AppEngine/pull/70#issuecomment-5341099881) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-2. ❌ Closed PR [#70](https://github.com/AngeloDotNet/AppEngine/pull/70) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-3. ℹ️ Assigned PR [#70](https://github.com/AngeloDotNet/AppEngine/pull/70) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-4. 🗣 Commented on [#1](https://github.com/AngeloDotNet/NET-GenericMockServer/pull/1#issuecomment-5341091833) in [AngeloDotNet/NET-GenericMockServer](https://github.com/AngeloDotNet/NET-GenericMockServer)
-5. ❌ Closed PR [#1](https://github.com/AngeloDotNet/NET-GenericMockServer/pull/1) in [AngeloDotNet/NET-GenericMockServer](https://github.com/AngeloDotNet/NET-GenericMockServer)
+1. ℹ️ Assigned PR [#48](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/48) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+2. ℹ️ Assigned PR [#67](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/67) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ℹ️ Assigned PR [#66](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/66) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. 🗣 Commented on [#70](https://github.com/AngeloDotNet/AppEngine/pull/70#issuecomment-5341099881) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+5. ❌ Closed PR [#70](https://github.com/AngeloDotNet/AppEngine/pull/70) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
 <!--END_SECTION:activity-->

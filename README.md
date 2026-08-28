@@ -85,9 +85,9 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 ## ⚡ Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#46](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/46) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-2. ℹ️ Assigned PR [#47](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/47) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-3. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/API-SendEmail/pull/1) in [AngeloDotNet/API-SendEmail](https://github.com/AngeloDotNet/API-SendEmail)
-4. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/NET-CreateJobManualCoravel/pull/1) in [AngeloDotNet/NET-CreateJobManualCoravel](https://github.com/AngeloDotNet/NET-CreateJobManualCoravel)
-5. 🗣 Commented on [#1](https://github.com/AngeloDotNet/GenericRepositorySoftDelete.v2/pull/1#issuecomment-5379557114) in [AngeloDotNet/GenericRepositorySoftDelete.v2](https://github.com/AngeloDotNet/GenericRepositorySoftDelete.v2)
+1. ℹ️ Assigned PR [#69](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/69) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+2. ℹ️ Assigned PR [#70](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/70) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ℹ️ Assigned PR [#46](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/46) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+4. ℹ️ Assigned PR [#47](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/47) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. ℹ️ Assigned PR [#1](https://github.com/AngeloDotNet/API-SendEmail/pull/1) in [AngeloDotNet/API-SendEmail](https://github.com/AngeloDotNet/API-SendEmail)
 <!--END_SECTION:activity-->

@@ -6,8 +6,8 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 [![Twitter Follow](https://img.shields.io/twitter/follow/angeloIT87?style=for-the-badge&logo=X&Color=1DA1F2)](https://twitter.com/intent/follow?screen_name=angeloit87)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/angelodotnet)
 
-## 🔧 Skills
-
+<details open>
+<summary>🔧 Skills</summary>
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -46,7 +46,7 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
   <!--<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />-->
-</p>
+</p></details>
 
 ## 📊 GitHub Stats
 
@@ -74,7 +74,8 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 [![trophy](https://github-trophies.vercel.app/?username=angelodotnet)](https://github.com/angelodotnet/github-trophies)
 -->
 
-## 📝 Recent Blog Posts
+<details>
+<summary>📝 Recent Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
@@ -83,16 +84,16 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
-<!--
-## ⚡ Recent GitHub Activity
--->  
+<details>
+<summary>⚡ Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
-<!--
 1. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/RegistroServizi/pull/2) in [AngeloDotNet/RegistroServizi](https://github.com/AngeloDotNet/RegistroServizi)
 2. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/RegistroServizi/pull/3) in [AngeloDotNet/RegistroServizi](https://github.com/AngeloDotNet/RegistroServizi)
 3. ℹ️ Assigned PR [#73](https://github.com/AngeloDotNet/AppEngine/pull/73) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
 4. ℹ️ Assigned PR [#69](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/69) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 5. ℹ️ Assigned PR [#70](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/70) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
--->
 <!--END_SECTION:activity-->
+</details>

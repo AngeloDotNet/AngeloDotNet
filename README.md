@@ -84,12 +84,15 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## ⚡ Recent GitHub Activity
-  
+-->  
 <!--START_SECTION:activity-->
+<!--
 1. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/RegistroServizi/pull/2) in [AngeloDotNet/RegistroServizi](https://github.com/AngeloDotNet/RegistroServizi)
 2. ℹ️ Assigned PR [#3](https://github.com/AngeloDotNet/RegistroServizi/pull/3) in [AngeloDotNet/RegistroServizi](https://github.com/AngeloDotNet/RegistroServizi)
 3. ℹ️ Assigned PR [#73](https://github.com/AngeloDotNet/AppEngine/pull/73) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
 4. ℹ️ Assigned PR [#69](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/69) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 5. ℹ️ Assigned PR [#70](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/70) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+-->
 <!--END_SECTION:activity-->

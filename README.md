@@ -68,15 +68,16 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=dracula&animation=sequence&name=Angelo+Pirola)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula&animation=sequence)
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelodotnet&theme=dracula&animation=sequence&utcOffset=0)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelodotnet&theme=dracula&animation=sequence)
+-->
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-trophies.vercel.app/?username=angelodotnet)](https://github.com/angelodotnet/github-trophies)
 
-<details>
-<summary>📝 Recent Blog Posts</summary>
+## 📝 Recent Blog Posts
   
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
@@ -85,7 +86,6 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 - [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 - [How to manage users, roles, and claims, using jwt token and asp.net core identity](https://dev.to/angelodotnet/how-to-manage-roles-permissions-and-more-using-jwt-token-and-aspnet-core-identity-11k0)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 ## ⚡ Recent GitHub Activity
 

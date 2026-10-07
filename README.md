@@ -94,9 +94,9 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#81](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/81) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-2. ℹ️ Assigned PR [#82](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/82) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. ℹ️ Assigned PR [#55](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/55) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-4. ℹ️ Assigned PR [#54](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/54) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
-5. ℹ️ Assigned PR [#56](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/56) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. ℹ️ Assigned PR [#8](https://github.com/AngeloDotNet/RegistroServizi/pull/8) in [AngeloDotNet/RegistroServizi](https://github.com/AngeloDotNet/RegistroServizi)
+2. ℹ️ Assigned PR [#81](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/81) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. ℹ️ Assigned PR [#82](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/82) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. ℹ️ Assigned PR [#55](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/55) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+5. ℹ️ Assigned PR [#54](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/54) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
 <!--END_SECTION:activity-->

@@ -4,8 +4,7 @@
 
 ### .NET Software Engineer · Backend & Cloud
 
-Building reliable, maintainable software with **C#** and **.NET** since 2018, <br/>
-from the first .NET Core 2 releases to today's cloud-ready architectures.
+Building reliable, maintainable software with **C#** and **.NET** since 2018, from the first .NET Core 2 releases to today's cloud-ready architectures.
 
 <!--
 [![Blog](https://img.shields.io/badge/Blog-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/angelodotnet)

@@ -97,9 +97,9 @@ I'm a .NET Software Engineer, I have been using this technology since 2018 start
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer/pull/2) in [AngeloDotNet/NET8-SagreEventi.SQLServer](https://github.com/AngeloDotNet/NET8-SagreEventi.SQLServer)
-2. ℹ️ Assigned PR [#8](https://github.com/AngeloDotNet/RegistroServizi/pull/8) in [AngeloDotNet/RegistroServizi](https://github.com/AngeloDotNet/RegistroServizi)
-3. ℹ️ Assigned PR [#81](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/81) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. ℹ️ Assigned PR [#82](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/82) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-5. ℹ️ Assigned PR [#55](https://github.com/AngeloDotNet/EFCore-GenericRepository/pull/55) in [AngeloDotNet/EFCore-GenericRepository](https://github.com/AngeloDotNet/EFCore-GenericRepository)
+1. ℹ️ Assigned PR [#82](https://github.com/AngeloDotNet/AppEngine/pull/82) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
+2. ℹ️ Assigned PR [#83](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/83) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+3. 🎉 Merged PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+4. 💪 Opened PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+5. ℹ️ Assigned PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->

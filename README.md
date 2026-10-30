@@ -36,7 +36,7 @@ I'm a .NET software engineer passionate about backend development, software arch
 
 | Project | Description |
 |---|---|
-| [**SagreEventi**](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5) | Offline-first application for Italian food festivals, with a .NET backend (read the article) |
+| [**SagreEventi**](https://github.com/AngeloDotNet/SagreEventi.SQLServer) | Offline-first application for Italian food festivals, with a .NET backend (read the article [here](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)) |
 | [**TinyDatabaseLocalization**](https://github.com/AngeloDotNet/TinyDatabaseLocalization) | Lightweight localization library for .NET applications, backed by a database |
 
 <!-- 

@@ -6,16 +6,17 @@
 
 Building reliable, maintainable software with **C#** and **.NET** since 2018, from the first .NET Core 2 releases to today's cloud-ready architectures.
 
+<table>
+<tr>
+<td align="center"><a href="https://dev.to/angelodotnet"><img src="assets/icons/devto.svg" alt="Blog (dev.to)" title="Blog (dev.to)" width="40" height="40"><br><sub>Blog</sub></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/pirolaangelo/"><img src="assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"><br><sub>LinkedIn</sub></a></td>
 <!--
-[![Blog](https://img.shields.io/badge/Blog-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/angelodotnet)
-[![Website](https://img.shields.io/badge/Website-angelodotnet.github.io-2088FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://angelodotnet.github.io/AngeloDotNet/)
-[![X](https://img.shields.io/badge/X-@angeloit87-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=angeloit87)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/angelodotnet)
+<td align="center"><a href="https://angelo.mydomain.it"><img src="assets/icons/website.svg" alt="Website" title="Website" width="40" height="40"><br><sub>Website</sub></a></td>
 -->
-
-![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/angeloIT87?style=for-the-badge&logo=X&Color=1DA1F2)](https://twitter.com/intent/follow?screen_name=angeloit87)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/angelodotnet)
+<td align="center"><a href="https://twitter.com/intent/follow?screen_name=angeloit87"><img src="assets/icons/x.svg" alt="X (@angeloit87)" title="X (@angeloit87)" width="40" height="40"><br><sub>X</sub></a></td>
+<td align="center"><a href="https://buymeacoffee.com/angelodotnet"><img src="assets/icons/buymeacoffee.svg" alt="Buy Me A Coffee" title="Buy Me A Coffee" width="40" height="40"><br><sub>Support</sub></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -25,23 +26,24 @@ Building reliable, maintainable software with **C#** and **.NET** since 2018, fr
 
 I'm a .NET software engineer passionate about backend development, software architecture and everything related to IT and the cloud. I enjoy designing clean APIs, integrating distributed services and sharing what I learn through open source projects and articles.
 
+- 📍 Based in Varese, Italy
+- 🌐 Languages: Italian, English
 - 🔭 Working on open source libraries and applications in the .NET ecosystem
-- 🌱 Exploring AI-assisted development and local LLM tooling
+- 📚 Currently learning Blazor and ASP.NET Core GraphQL
+- 🌱 Exploring AI-assisted development (vibe coding with Claude AI) and local LLM tooling
 - ✍️ Writing about my projects and technical findings on [dev.to](https://dev.to/angelodotnet)
-- 🤝 Open to collaborations and contributions, pull requests are welcome
+- 🤝 Open to collaborations and contributions, pull requests are welcome, or reach me on [LinkedIn](https://www.linkedin.com/in/pirolaangelo/)
 
+<!-- - 💼 Application developer at [Company name] -->
 ---
 
 ## 🚀 Featured projects
 
 | Project | Description |
 |---|---|
-| [**SagreEventi**](https://github.com/AngeloDotNet/SagreEventi.SQLServer) | Offline-first application for Italian food festivals, with a .NET backend (read the article [here](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)) |
+| [**AppEngine**](https://github.com/AngeloDotNet/AppEngine) | Lightweight engine for .NET web applications, with extensions, middleware, logging and API versioning to speed up development |
+| [**SagreEventi**](https://github.com/AngeloDotNet/SagreEventi.SQLServer) | Offline-first PWA for Italian food festivals, with a .NET backend (read the article [here](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)) |
 | [**TinyDatabaseLocalization**](https://github.com/AngeloDotNet/TinyDatabaseLocalization) | Lightweight localization library for .NET applications, backed by a database |
-
-<!-- 
-> 📚 More repositories: [github.com/AngeloDotNet?tab=repositories](https://github.com/AngeloDotNet?tab=repositories)
--->
 
 > 📚 More repositories are available [here](https://github.com/AngeloDotNet?tab=repositories)
 
@@ -90,11 +92,6 @@ I'm a .NET software engineer passionate about backend development, software arch
 ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=Claude-Code&logoColor=white)
 
-<!-- 
-![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-000000.svg?style=for-the-badge&logo=LM-Studio&logoColor=white)
--->
-
 ---
 
 ## 📊 GitHub stats
@@ -127,15 +124,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 5. ℹ️ Assigned PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
 <!--END_SECTION:activity-->
 
+<!-- 
 ---
 
 <div align="center">
 
-  <!--
-💬 Got an idea or a question? Open an issue on one of my repositories or reach out on [X](https://twitter.com/angeloit87).
-
- © 2026 Angelo Pirola, all rights reserved. Made with ❤️.
- -->
-
  All rights reserved. Made with ❤️ from Varese (Italy)
 </div>
+-->

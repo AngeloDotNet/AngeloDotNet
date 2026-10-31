@@ -117,11 +117,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#82](https://github.com/AngeloDotNet/AppEngine/pull/82) in [AngeloDotNet/AppEngine](https://github.com/AngeloDotNet/AppEngine)
-2. ℹ️ Assigned PR [#83](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/83) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-3. 🎉 Merged PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-4. 💪 Opened PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
-5. ℹ️ Assigned PR [#85](https://github.com/AngeloDotNet/TinyDatabaseLocalization/pull/85) in [AngeloDotNet/TinyDatabaseLocalization](https://github.com/AngeloDotNet/TinyDatabaseLocalization)
+1. ℹ️ Labeled issue [#3](https://github.com/AngeloDotNet/SagreEventi.SQLServer/issues/3) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+2. ℹ️ Labeled issue [#2](https://github.com/AngeloDotNet/SagreEventi.SQLServer/issues/2) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+3. ℹ️ Assigned issue [#3](https://github.com/AngeloDotNet/SagreEventi.SQLServer/issues/3) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. ❗ Opened issue [#3](https://github.com/AngeloDotNet/SagreEventi.SQLServer/issues/3) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. ℹ️ Assigned issue [#2](https://github.com/AngeloDotNet/SagreEventi.SQLServer/issues/2) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->
 
 <!-- 

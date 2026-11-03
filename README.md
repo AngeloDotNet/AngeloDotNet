@@ -117,11 +117,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/20) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-2. ℹ️ Assigned PR [#20](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/20) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-3. 💪 Opened PR [#26](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/26) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-4. 🎉 Merged PR [#25](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/25) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-5. 💪 Opened PR [#25](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/25) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+1. 🎉 Merged PR [#32](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/32) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+2. 💪 Opened PR [#32](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/32) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+3. ℹ️ Assigned PR [#32](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/32) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+4. 🎉 Merged PR [#31](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/31) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+5. 💪 Opened PR [#31](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/31) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
 <!--END_SECTION:activity-->
 
 <!-- 

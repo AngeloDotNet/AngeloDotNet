@@ -105,11 +105,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TinyLocalization: database-backed translations for .NET, without redeploying](https://dev.to/angelodotnet/tinylocalization-database-backed-translations-for-net-without-redeploying-2nd1)
 - [SagreEventi: an offline-first app for Italian food festivals](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)
 - [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
 - [How to easily integrate and extend authentication in ASP.NET Core projects, using ASP.NET Core Identity](https://dev.to/angelodotnet/how-to-easily-integrate-and-extend-authentication-in-aspnet-core-projects-using-aspnet-core-130p)
 - [How can dynamically add separate API endpoints](https://dev.to/angelodotnet/how-can-dynamically-add-separate-api-endpoints-4h56)
-- [How to connect two microservices with RabbitMQ and Rebus](https://dev.to/angelodotnet/how-to-connect-two-microservices-with-rabbitmq-and-rebus-278)
 <!-- BLOG-POST-LIST:END -->
 
 ---

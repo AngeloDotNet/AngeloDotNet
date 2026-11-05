@@ -117,11 +117,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/32) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-2. 💪 Opened PR [#32](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/32) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-3. ℹ️ Assigned PR [#32](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/32) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-4. 🎉 Merged PR [#31](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/31) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
-5. 💪 Opened PR [#31](https://github.com/AngeloDotNet/SagreEventi.SQLServer/pull/31) in [AngeloDotNet/SagreEventi.SQLServer](https://github.com/AngeloDotNet/SagreEventi.SQLServer)
+1. 🎉 Merged PR [#13](https://github.com/AngeloDotNet/claude-config-docs/pull/13) in [AngeloDotNet/claude-config-docs](https://github.com/AngeloDotNet/claude-config-docs)
+2. ℹ️ Assigned PR [#13](https://github.com/AngeloDotNet/claude-config-docs/pull/13) in [AngeloDotNet/claude-config-docs](https://github.com/AngeloDotNet/claude-config-docs)
+3. 🎉 Merged PR [#5](https://github.com/AngeloDotNet/claude-config/pull/5) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+4. ℹ️ Assigned PR [#5](https://github.com/AngeloDotNet/claude-config/pull/5) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+5. 💪 Opened PR [#13](https://github.com/AngeloDotNet/claude-config-docs/pull/13) in [AngeloDotNet/claude-config-docs](https://github.com/AngeloDotNet/claude-config-docs)
 <!--END_SECTION:activity-->
 
 <!-- 

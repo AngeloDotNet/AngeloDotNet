@@ -41,9 +41,9 @@ I'm a .NET software engineer passionate about backend development, software arch
 
 | Project | Description |
 |---|---|
-| [**Claude Config**](https://github.com/AngeloDotNet/claude-config) | Starting repository for new projects developed with Claude Code |
-| [**Sagre Eventi**](https://github.com/AngeloDotNet/SagreEventi.SQLServer) | Offline-first PWA for Italian food festivals, with a .NET backend (read the article [here](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)) |
-| [**Tiny Database Localization**](https://github.com/AngeloDotNet/TinyDatabaseLocalization) | Lightweight localization library for .NET applications, backed by a database |
+| [**ClaudeConfig**](https://github.com/AngeloDotNet/claude-config) | Starting repository for new projects developed with Claude Code |
+| [**SagreEventi**](https://github.com/AngeloDotNet/SagreEventi.SQLServer) | Offline-first PWA for Italian food festivals, with a .NET backend (read the article [here](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)) |
+| [**TinyDatabaseLocalization**](https://github.com/AngeloDotNet/TinyDatabaseLocalization) | Lightweight localization library for .NET applications, backed by a database |
 <!-- | [**AppEngine**](https://github.com/AngeloDotNet/AppEngine) | Lightweight engine for .NET web applications, with extensions, middleware, logging and API versioning to speed up development | -->
 > 📚 More repositories are available [here](https://github.com/AngeloDotNet?tab=repositories)
 

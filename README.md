@@ -41,7 +41,7 @@ I'm a .NET software engineer passionate about backend development, software arch
 
 | Project | Description |
 |---|---|
-| [**Wiki**](https://github.com/AngeloDotNet/wiki) | Wiki documentation with Docusaurus: Claude Code and the SagreEventi web application |
+| [**Wiki Documentation**](https://github.com/AngeloDotNet/wiki) | Wiki documentation with Docusaurus: Claude Code and the SagreEventi |
 | [**ClaudeConfig**](https://github.com/AngeloDotNet/claude-config) | Starting repository for new projects developed with Claude Code |
 | [**SagreEventi**](https://github.com/AngeloDotNet/sagreeventi) | Offline-first PWA for Italian food festivals, with a .NET backend |
 | [**TinyDatabaseLocalization**](https://github.com/AngeloDotNet/TinyDatabaseLocalization) | Lightweight localization library for .NET applications, backed by a database |

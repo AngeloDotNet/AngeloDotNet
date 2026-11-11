@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/AngeloDotNet/wiki/pull/37) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-2. ℹ️ Assigned PR [#37](https://github.com/AngeloDotNet/wiki/pull/37) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-3. 💪 Opened PR [#37](https://github.com/AngeloDotNet/wiki/pull/37) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-4. 🚀 Published release [kit plugin 1.11.0](https://github.com/AngeloDotNet/claude-config/releases/tag/v1.11.0) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-5. 🎉 Merged PR [#23](https://github.com/AngeloDotNet/claude-config/pull/23) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+1. 🎉 Merged PR [#55](https://github.com/AngeloDotNet/sagreeventi/pull/55) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+2. 💪 Opened PR [#55](https://github.com/AngeloDotNet/sagreeventi/pull/55) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+3. ℹ️ Assigned PR [#55](https://github.com/AngeloDotNet/sagreeventi/pull/55) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+4. 🎉 Merged PR [#54](https://github.com/AngeloDotNet/sagreeventi/pull/54) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+5. ℹ️ Assigned PR [#54](https://github.com/AngeloDotNet/sagreeventi/pull/54) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
 <!--END_SECTION:activity-->
 
 <!-- 

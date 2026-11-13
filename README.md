@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/AngeloDotNet/sagreeventi/pull/61) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-2. 💪 Opened PR [#61](https://github.com/AngeloDotNet/sagreeventi/pull/61) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-3. ℹ️ Assigned PR [#61](https://github.com/AngeloDotNet/sagreeventi/pull/61) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-4. 🎉 Merged PR [#60](https://github.com/AngeloDotNet/sagreeventi/pull/60) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-5. ℹ️ Assigned PR [#60](https://github.com/AngeloDotNet/sagreeventi/pull/60) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+1. 🚀 Published release [1.1.0](https://github.com/AngeloDotNet/sagreeventi/releases/tag/1.1.0) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+2. 🎉 Merged PR [#65](https://github.com/AngeloDotNet/sagreeventi/pull/65) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+3. ℹ️ Assigned PR [#65](https://github.com/AngeloDotNet/sagreeventi/pull/65) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+4. 💪 Opened PR [#65](https://github.com/AngeloDotNet/sagreeventi/pull/65) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+5. 🎉 Merged PR [#64](https://github.com/AngeloDotNet/sagreeventi/pull/64) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
 <!--END_SECTION:activity-->
 
 <!-- 

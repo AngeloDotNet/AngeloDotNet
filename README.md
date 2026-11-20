@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/AngeloDotNet/wiki/pull/75) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-2. 💪 Opened PR [#75](https://github.com/AngeloDotNet/wiki/pull/75) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-3. ℹ️ Assigned PR [#75](https://github.com/AngeloDotNet/wiki/pull/75) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-4. 🎉 Merged PR [#74](https://github.com/AngeloDotNet/wiki/pull/74) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-5. ℹ️ Assigned PR [#74](https://github.com/AngeloDotNet/wiki/pull/74) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
+1. 🎉 Merged PR [#79](https://github.com/AngeloDotNet/wiki/pull/79) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
+2. ℹ️ Assigned PR [#79](https://github.com/AngeloDotNet/wiki/pull/79) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
+3. 💪 Opened PR [#79](https://github.com/AngeloDotNet/wiki/pull/79) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
+4. 🎉 Merged PR [#78](https://github.com/AngeloDotNet/wiki/pull/78) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
+5. ℹ️ Assigned PR [#78](https://github.com/AngeloDotNet/wiki/pull/78) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
 <!--END_SECTION:activity-->
 
 <!-- 

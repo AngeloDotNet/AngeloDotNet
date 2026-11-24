@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#83](https://github.com/AngeloDotNet/claude-config/issues/83) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-2. ❗ Opened issue [#82](https://github.com/AngeloDotNet/claude-config/issues/82) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-3. 🎉 Merged PR [#81](https://github.com/AngeloDotNet/claude-config/pull/81) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-4. ℹ️ Assigned PR [#81](https://github.com/AngeloDotNet/claude-config/pull/81) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-5. 🚀 Published release [2.0.1](https://github.com/AngeloDotNet/claude-config/releases/tag/2.0.1) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+1. 🎉 Merged PR [#87](https://github.com/AngeloDotNet/claude-config/pull/87) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+2. 💪 Opened PR [#87](https://github.com/AngeloDotNet/claude-config/pull/87) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+3. ℹ️ Assigned PR [#87](https://github.com/AngeloDotNet/claude-config/pull/87) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+4. 🎉 Merged PR [#86](https://github.com/AngeloDotNet/claude-config/pull/86) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+5. ℹ️ Assigned PR [#86](https://github.com/AngeloDotNet/claude-config/pull/86) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
 <!--END_SECTION:activity-->
 
 <!-- 

@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/AngeloDotNet/wiki/pull/85) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-2. ℹ️ Assigned PR [#85](https://github.com/AngeloDotNet/wiki/pull/85) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-3. 💪 Opened PR [#85](https://github.com/AngeloDotNet/wiki/pull/85) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
-4. 🎉 Merged PR [#101](https://github.com/AngeloDotNet/claude-config/pull/101) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-5. ℹ️ Assigned PR [#101](https://github.com/AngeloDotNet/claude-config/pull/101) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+1. 🗣 Commented on [#95](https://github.com/AngeloDotNet/claude-config/issues/95#issuecomment-7134767442) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+2. 🗣 Commented on [#93](https://github.com/AngeloDotNet/claude-config/issues/93#issuecomment-7134721418) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+3. 🗣 Commented on [#92](https://github.com/AngeloDotNet/claude-config/issues/92#issuecomment-7134707409) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+4. 🗣 Commented on [#96](https://github.com/AngeloDotNet/claude-config/issues/96#issuecomment-7134768807) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+5. ❗ Opened issue [#95](https://github.com/AngeloDotNet/claude-config/issues/95) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
 <!--END_SECTION:activity-->
 
 <!-- 

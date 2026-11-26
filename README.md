@@ -31,6 +31,7 @@ I'm a .NET software engineer focused on backend development and software archite
 
 ---
 
+<!--
 ## 🔧 Tech stack
 
 ### Languages & frameworks
@@ -74,6 +75,7 @@ I'm a .NET software engineer focused on backend development and software archite
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=flat-square&logo=Claude-Code&logoColor=white)
 
 ---
+-->
 
 ## 📊 GitHub stats
 

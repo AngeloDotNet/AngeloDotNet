@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#108](https://github.com/AngeloDotNet/claude-config/issues/108) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-2. ℹ️ Assigned issue [#107](https://github.com/AngeloDotNet/claude-config/issues/107) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-3. 🗣 Commented on [#106](https://github.com/AngeloDotNet/claude-config/issues/106#issuecomment-7170737248) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-4. 🔒 Closed issue [#108](https://github.com/AngeloDotNet/claude-config/issues/108) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
-5. 🗣 Commented on [#108](https://github.com/AngeloDotNet/claude-config/issues/108#issuecomment-7170736267) in [AngeloDotNet/claude-config](https://github.com/AngeloDotNet/claude-config)
+1. ❗ Opened issue [#90](https://github.com/AngeloDotNet/sagreeventi/issues/90) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+2. ❗ Opened issue [#86](https://github.com/AngeloDotNet/sagreeventi/issues/86) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+3. 🗣 Commented on [#75](https://github.com/AngeloDotNet/sagreeventi/issues/75#issuecomment-7190238151) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+4. ❗ Opened issue [#89](https://github.com/AngeloDotNet/sagreeventi/issues/89) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+5. ❗ Opened issue [#82](https://github.com/AngeloDotNet/sagreeventi/issues/82) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
 <!--END_SECTION:activity-->
 
 <!-- 

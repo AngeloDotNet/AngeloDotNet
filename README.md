@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#95](https://github.com/AngeloDotNet/sagreeventi/issues/95) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-2. ❗ Opened issue [#98](https://github.com/AngeloDotNet/sagreeventi/issues/98) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-3. ❗ Opened issue [#97](https://github.com/AngeloDotNet/sagreeventi/issues/97) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-4. ❗ Opened issue [#96](https://github.com/AngeloDotNet/sagreeventi/issues/96) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-5. ❗ Opened issue [#94](https://github.com/AngeloDotNet/sagreeventi/issues/94) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+1. ❗ Opened issue [#87](https://github.com/AngeloDotNet/wiki/issues/87) in [AngeloDotNet/wiki](https://github.com/AngeloDotNet/wiki)
+2. 🗣 Commented on [#11](https://github.com/AngeloDotNet/fe-blazor-components/issues/11#issuecomment-7199452462) in [AngeloDotNet/fe-blazor-components](https://github.com/AngeloDotNet/fe-blazor-components)
+3. ❗ Opened issue [#31](https://github.com/AngeloDotNet/fe-blazor-components/issues/31) in [AngeloDotNet/fe-blazor-components](https://github.com/AngeloDotNet/fe-blazor-components)
+4. ❗ Opened issue [#95](https://github.com/AngeloDotNet/sagreeventi/issues/95) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+5. ❗ Opened issue [#98](https://github.com/AngeloDotNet/sagreeventi/issues/98) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
 <!--END_SECTION:activity-->
 
 <!-- 

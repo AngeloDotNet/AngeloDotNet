@@ -1,22 +1,6 @@
 <div align="center">
 
-# Angelo Pirola
-
-### .NET Software Engineer · Backend & Cloud
-
-Building reliable, maintainable software with **C#** and **.NET** since 2018, from the first .NET Core 2 releases to today's cloud-ready architectures.
-
-<table>
-<tr>
-<td align="center"><a href="https://dev.to/angelodotnet"><img src="assets/icons/devto.svg" alt="Blog (dev.to)" title="Blog (dev.to)" width="40" height="40"><br><sub>Blog</sub></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/pirolaangelo/"><img src="assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"><br><sub>LinkedIn</sub></a></td>
-<!--
-<td align="center"><a href="https://angelo.mydomain.it"><img src="assets/icons/website.svg" alt="Website" title="Website" width="40" height="40"><br><sub>Website</sub></a></td>
--->
-<td align="center"><a href="https://twitter.com/intent/follow?screen_name=angeloit87"><img src="assets/icons/x.svg" alt="X (@angeloit87)" title="X (@angeloit87)" width="40" height="40"><br><sub>X</sub></a></td>
-<td align="center"><a href="https://buymeacoffee.com/angelodotnet"><img src="assets/icons/buymeacoffee.svg" alt="Buy Me A Coffee" title="Buy Me A Coffee" width="40" height="40"><br><sub>Support</sub></a></td>
-</tr>
-</table>
+<img src="assets/banner.svg" alt="Angelo Pirola, .NET Software Engineer, Backend &amp; Cloud. Building reliable, maintainable software with C# and .NET since 2018, from the first .NET Core 2 releases to today's cloud-ready architectures." width="100%">
 
 </div>
 
@@ -31,8 +15,9 @@ I'm a .NET software engineer passionate about backend development, software arch
 - 🔭 Working on open source libraries and applications in the .NET ecosystem
 - 📚 Currently learning Blazor and ASP.NET Core GraphQL
 - 🌱 Exploring AI-assisted development (vibe coding with Claude AI) and local LLM tooling
-- ✍️ Writing about my projects and technical findings on [dev.to](https://dev.to/angelodotnet)
-- 🤝 Open to collaborations and contributions, pull requests are welcome, or reach me on [LinkedIn](https://www.linkedin.com/in/pirolaangelo/)
+- 🤝 Open to collaborations, pull requests are welcome
+- 🔗 Find me: [Blog](https://dev.to/angelodotnet) · [LinkedIn](https://www.linkedin.com/in/pirolaangelo/) · [X](https://twitter.com/intent/follow?screen_name=angeloit87) · [Support me](https://buymeacoffee.com/angelodotnet)
+<!-- Website: [Website](https://angelo.mydomain.it) -->
 
 <!-- - 💼 Application developer at [Company name] -->
 ---
@@ -41,7 +26,7 @@ I'm a .NET software engineer passionate about backend development, software arch
 
 | Project | Description |
 |---|---|
-| [**Wiki Documentation**](https://github.com/AngeloDotNet/wiki) | Wiki documentation with Docusaurus: Claude Code and the SagreEventi |
+| [**Wiki Documentation**](https://github.com/AngeloDotNet/wiki) | Docusaurus-based documentation hub for my projects and tools |
 | [**ClaudeConfig**](https://github.com/AngeloDotNet/claude-config) | Starting repository for new projects developed with Claude Code |
 | [**SagreEventi**](https://github.com/AngeloDotNet/sagreeventi) | Offline-first PWA for Italian food festivals, with a .NET backend |
 | [**TinyDatabaseLocalization**](https://github.com/AngeloDotNet/TinyDatabaseLocalization) | Lightweight localization library for .NET applications, backed by a database |

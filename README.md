@@ -118,11 +118,11 @@ I'm a .NET software engineer passionate about backend development, software arch
 ## ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#90](https://github.com/AngeloDotNet/sagreeventi/issues/90) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-2. ❗ Opened issue [#86](https://github.com/AngeloDotNet/sagreeventi/issues/86) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-3. 🗣 Commented on [#75](https://github.com/AngeloDotNet/sagreeventi/issues/75#issuecomment-7190238151) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-4. ❗ Opened issue [#89](https://github.com/AngeloDotNet/sagreeventi/issues/89) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
-5. ❗ Opened issue [#82](https://github.com/AngeloDotNet/sagreeventi/issues/82) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+1. ❗ Opened issue [#95](https://github.com/AngeloDotNet/sagreeventi/issues/95) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+2. ❗ Opened issue [#98](https://github.com/AngeloDotNet/sagreeventi/issues/98) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+3. ❗ Opened issue [#97](https://github.com/AngeloDotNet/sagreeventi/issues/97) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+4. ❗ Opened issue [#96](https://github.com/AngeloDotNet/sagreeventi/issues/96) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
+5. ❗ Opened issue [#94](https://github.com/AngeloDotNet/sagreeventi/issues/94) in [AngeloDotNet/sagreeventi](https://github.com/AngeloDotNet/sagreeventi)
 <!--END_SECTION:activity-->
 
 <!-- 

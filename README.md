@@ -77,9 +77,12 @@ I'm a .NET software engineer focused on backend development and software archite
 
 ## 📊 GitHub stats
 
-[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&theme=dracula&animation=sequence&name=Angelo+Pirola)](https://github.com/AngeloDotNet)
-[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelodotnet&theme=dracula)](https://github.com/AngeloDotNet)
-[![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelodotnet&theme=dracula)](https://github.com/AngeloDotNet)
+<a href="https://github.com/AngeloDotNet">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&amp;animation=sequence&amp;name=Angelo+Pirola&amp;theme=dracula">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelodotnet&amp;animation=sequence&amp;name=Angelo+Pirola&amp;theme=default" alt="Profile details">
+  </picture>
+</a>
 
 ---
 

@@ -16,7 +16,7 @@ I'm a .NET software engineer passionate about backend development, software arch
 - 📚 Currently learning Blazor and ASP.NET Core GraphQL
 - 🌱 Exploring AI-assisted development (vibe coding with Claude AI) and local LLM tooling
 - 🤝 Open to collaborations, pull requests are welcome
-- 🔗 Find me: [Blog](https://dev.to/angelodotnet) · [LinkedIn](https://www.linkedin.com/in/pirolaangelo/) · [X](https://twitter.com/intent/follow?screen_name=angeloit87) · [Support me](https://buymeacoffee.com/angelodotnet)
+- 🔗 Find me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dev.to/angelodotnet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/blog-dark.svg"><img src="assets/icons/blog-light.svg" alt="Blog" title="Blog" width="32" height="32" align="middle"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pirolaangelo/"><img src="assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24" align="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/follow?screen_name=angeloit87"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg"><img src="assets/icons/x-light.svg" alt="X" title="X" width="23" height="23" align="middle"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://buymeacoffee.com/angelodotnet"><img src="assets/icons/buymeacoffee.svg" alt="Support me" title="Support me" width="30" height="30" align="middle"></a>
 <!-- Website: [Website](https://angelo.mydomain.it) -->
 
 <!-- - 💼 Application developer at [Company name] -->

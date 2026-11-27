@@ -91,9 +91,9 @@ I'm a .NET software engineer focused on backend development and software archite
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude config: my rules were too heavy for small projects, so I added profiles](https://dev.to/angelodotnet/claude-config-my-rules-were-too-heavy-for-small-projects-so-i-added-profiles-30f6)
 - [Claude config: rules and guardrails for Claude ... &lpar;Update: 14/11/2026&rpar;](https://dev.to/angelodotnet/claude-config-rules-and-guardrails-for-claude-update-14112026-393)
 - [Claude config: rules and guardrails for Claude ... &lpar;Update: 10/11/2026&rpar;](https://dev.to/angelodotnet/update-10112026-claude-config-rules-and-guardrails-for-claude-4a6p)
 - [Claude config: rules and guardrails for Claude Code on .NET + Angular projects](https://dev.to/angelodotnet/claude-config-rules-and-guardrails-for-claude-code-on-net-angular-projects-3o0p)
 - [TinyLocalization: database-backend translations for .NET, without redeploying](https://dev.to/angelodotnet/tinylocalization-database-backed-translations-for-net-without-redeploying-2nd1)
-- [SagreEventi: an offline-first app for Italian food festivals](https://dev.to/angelodotnet/sagreeventi-an-offline-first-app-for-italian-food-festivals-5fn5)
 <!-- BLOG-POST-LIST:END -->
